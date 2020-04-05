@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kpalmvik/grannkommuner/issues"
   },
-  "homepage": "https://github.com/kpalmvik/grannkommuner#readme"
+  "homepage": "https://github.com/kpalmvik/grannkommuner#readme",
+  "devDependencies": {
+    "csv-parse": "^4.8.8"
+  }
 }
