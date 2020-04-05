@@ -13,7 +13,7 @@ Transformed using the code provided in this repository.
 
 Cross referenced against the SCB map [Karta över Sveriges kommuner enligt indelning 2010-01-01](https://www.scb.se/contentassets/1e02934987424259b730c5e9a82f7e74/kommunkarta09.pdf)
 
-The [list of municipality codes](../blob/master/municipalities.js) (for example `0180` Stockholm), is based on the SCB list [Län och kommuner i kodnummerordning](https://www.scb.se/hitta-statistik/regional-statistik-och-kartor/regionala-indelningar/lan-och-kommuner/lan-och-kommuner-i-kodnummerordning/)
+The [list of municipality codes](municipalities.js) (for example `0180` Stockholm), is based on the SCB list [Län och kommuner i kodnummerordning](https://www.scb.se/hitta-statistik/regional-statistik-och-kartor/regionala-indelningar/lan-och-kommuner/lan-och-kommuner-i-kodnummerordning/)
 
 ## Definitions and limitations
 
@@ -21,7 +21,7 @@ The [list of municipality codes](../blob/master/municipalities.js) (for example 
 
 ## List of neighboring municipalities in Sweden
 
-💁‍ Computer readable [versions (JSON) are found in `/output`](../blob/master/output)
+💁‍ Computer readable [versions (JSON) are found in `/output`](output/)
 
 Municipality (Kommun) | Neighboring municipalities (Grannkommuner)
 --- | ---
