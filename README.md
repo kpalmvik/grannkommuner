@@ -1,6 +1,8 @@
 # Grannkommuner i Sverige - Neighboring municipalities in Sweden
 
-> Grannkommun: _som gränsar till (eller ligger i närheten av) en viss kommun_ >[Wiktionary](https://sv.wiktionary.org/wiki/grannkommun)
+> Grannkommun: _som gränsar till (eller ligger i närheten av) en viss kommun_
+>
+>[Wiktionary](https://sv.wiktionary.org/wiki/grannkommun)
 
 En lista över svenska kommuner som ligger intill varandra och alltså är grannar, även kallat närliggande eller intilliggande kommuner.
 
