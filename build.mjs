@@ -1,40 +1,9 @@
-import { parse } from "csv-parse/sync";
-import fs from "fs";
+import municipalities from "./municipalities.json" with { type: "json" };
+import parseInputCsv from "./src/parseInputCsv.mjs";
+import transformCsvData from "./src/transformCsvData.mjs";
+import writeOutputFile from "./src/writeOutputFile.mjs";
 
-import municipalities from "./municipalities.json" with { type: "json"}
-
-const parseInputCsv = function parseInputCsv() {
-  const csvContents = fs.readFileSync(
-    new URL("./input/input.csv", import.meta.url),
-    "utf8"
-  );
-
-  const data = parse(csvContents, {
-    columns: true,
-    trim: true,
-  });
-
-  return data;
-};
-
-const transformCsvData = function (csvData) {
-  const data = {};
-
-  csvData.forEach(({ KnKod: municipalityCode, Neighbors: neighbors }) => {
-    const transformedNeighbors = neighbors
-      .split(", ")
-      .filter((neighbor) => neighbor !== municipalityCode)
-      .sort();
-
-    data[municipalityCode] = transformedNeighbors;
-  });
-
-  return data;
-};
-
-const nameFromCode = function (municipalityCode) {
-  return municipalities[municipalityCode];
-};
+const nameFromCode = (municipalityCode) => municipalities[municipalityCode];
 
 const onlyNames = function onlyNames(data) {
   const dataWithNames = {};
@@ -43,15 +12,11 @@ const onlyNames = function onlyNames(data) {
     const municipalityName = nameFromCode(municipalityCode);
 
     dataWithNames[municipalityName] = data[municipalityCode].map(
-      (neighborCode) => nameFromCode(neighborCode)
+      (neighborCode) => nameFromCode(neighborCode),
     );
   });
 
   return dataWithNames;
-};
-
-const writeOutputFile = function (filename, outputString) {
-  fs.writeFileSync(`./output/${filename}`, outputString);
 };
 
 const csvData = parseInputCsv();
@@ -74,7 +39,7 @@ const nameCodesString = sorted
 writeOutputFile("neighboring-municipalities-code.json", JSON.stringify(data));
 writeOutputFile(
   "neighboring-municipalities-name.json",
-  JSON.stringify(onlyNames(data))
+  JSON.stringify(onlyNames(data)),
 );
 writeOutputFile("neighboring-municipalities-name-code.txt", nameCodesString);
 
@@ -82,7 +47,7 @@ console.log("-------");
 console.log("Copy and paste from console to README.md");
 console.log("-------");
 
-sorted.map((municipalityCode) => {
+sorted.forEach((municipalityCode) => {
   const neighborCodes = data[municipalityCode];
 
   const neighborsString = neighborCodes
