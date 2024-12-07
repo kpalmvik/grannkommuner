@@ -291,4 +291,4 @@ const municipalities = {
   "2584": "Kiruna",
 };
 
-module.exports = municipalities;
+export default municipalities;

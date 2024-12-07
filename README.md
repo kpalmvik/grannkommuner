@@ -30,7 +30,7 @@ Vallentuna | Upplands Väsby, Österåker, Täby, Norrtälje, Sigtuna
 Österåker | Vallentuna, Täby, Vaxholm, Norrtälje
 Värmdö | Nacka
 Järfälla | Upplands Väsby, Upplands-Bro, Sollentuna, Stockholm
-Ekerö | 
+Ekerö |
 Huddinge | Botkyrka, Haninge, Tyresö, Stockholm
 Botkyrka | Huddinge, Salem, Haninge, Södertälje, Nynäshamn
 Salem | Botkyrka, Södertälje
@@ -46,7 +46,7 @@ Södertälje | Botkyrka, Salem, Nykvarn, Gnesta, Trosa
 Nacka | Värmdö, Tyresö, Stockholm
 Sundbyberg | Sollentuna, Stockholm, Solna
 Solna | Danderyd, Sollentuna, Stockholm, Sundbyberg
-Lidingö | 
+Lidingö |
 Vaxholm | Österåker
 Norrtälje | Vallentuna, Österåker, Sigtuna, Knivsta, Uppsala, Östhammar
 Sigtuna | Upplands Väsby, Vallentuna, Upplands-Bro, Norrtälje, Håbo, Knivsta, Uppsala
@@ -114,7 +114,7 @@ Oskarshamn | Högsby, Hultsfred, Mönsterås, Västervik, Vimmerby
 Västervik | Kinda, Åtvidaberg, Valdemarsvik, Oskarshamn, Vimmerby
 Vimmerby | Ydre, Kinda, Eksjö, Hultsfred, Oskarshamn, Västervik
 Borgholm | Mörbylånga
-Gotland | 
+Gotland |
 Olofström | Tingsryd, Älmhult, Karlshamn, Sölvesborg, Östra Göinge, Bromölla, Osby, Kristianstad
 Karlskrona | Torsås, Emmaboda, Ronneby
 Ronneby | Tingsryd, Emmaboda, Karlskrona, Karlshamn
@@ -161,9 +161,9 @@ Varberg | Falkenberg, Kungsbacka, Mark, Svenljunga
 Kungsbacka | Varberg, Härryda, Mark, Göteborg, Mölndal
 Härryda | Kungsbacka, Partille, Lerum, Bollebygd, Mark, Göteborg, Mölndal
 Partille | Härryda, Lerum, Göteborg
-Öckerö | 
+Öckerö |
 Stenungsund | Lilla Edet, Kungälv, Uddevalla
-Tjörn | 
+Tjörn |
 Orust | Lysekil, Uddevalla
 Sotenäs | Munkedal, Tanum, Lysekil
 Munkedal | Sotenäs, Tanum, Dals-Ed, Färgelanda, Lysekil, Uddevalla
@@ -319,6 +319,6 @@ Kiruna | Pajala, Gällivare
 ## Recreate the list from the input file
 
 - Replace or update the file `input/input.csv`, exported from QGIS, with a file using the same format.
-- Run the npm `build` script (or `node ./build.js` directly) in this repository.
+- Run the `npm run build` script (or `node ./build.mjs` directly) in this repository.
 
 The `output` directory will then contain updated versions of the output files.
