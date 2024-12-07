@@ -1,7 +1,6 @@
 # Grannkommuner i Sverige - Neighboring municipalities in Sweden
 
->Grannkommun: _som gränsar till (eller ligger i närheten av) en viss kommun_
->[Wiktionary](https://sv.wiktionary.org/wiki/grannkommun)
+> Grannkommun: _som gränsar till (eller ligger i närheten av) en viss kommun_ >[Wiktionary](https://sv.wiktionary.org/wiki/grannkommun)
 
 En lista över svenska kommuner som ligger intill varandra och alltså är grannar, även kallat närliggande eller intilliggande kommuner.
 
@@ -23,8 +22,9 @@ The [list of municipality codes](municipalities.js) (for example `0180` Stockhol
 
 💁‍ Computer readable [versions (JSON) are found in `/output`](output/)
 
-Municipality (Kommun) | Neighboring municipalities (Grannkommuner)
---- | ---
+<!-- prettier-ignore -->
+| Municipality (Kommun) | Neighboring municipalities (Grannkommuner)
+| -- | --
 Upplands Väsby | Vallentuna, Järfälla, Upplands-Bro, Täby, Sollentuna, Sigtuna
 Vallentuna | Upplands Väsby, Österåker, Täby, Norrtälje, Sigtuna
 Österåker | Vallentuna, Täby, Vaxholm, Norrtälje
