@@ -1,0 +1,7561 @@
+{
+  "1060": {
+    "name": "Olofström",
+    "code": "1060",
+    "neighbors": [
+      {
+        "name": "Tingsryd",
+        "code": "0763"
+      },
+      {
+        "name": "Älmhult",
+        "code": "0765"
+      },
+      {
+        "name": "Karlshamn",
+        "code": "1082"
+      },
+      {
+        "name": "Sölvesborg",
+        "code": "1083"
+      },
+      {
+        "name": "Östra Göinge",
+        "code": "1256"
+      },
+      {
+        "name": "Bromölla",
+        "code": "1272"
+      },
+      {
+        "name": "Osby",
+        "code": "1273"
+      },
+      {
+        "name": "Kristianstad",
+        "code": "1290"
+      }
+    ]
+  },
+  "1080": {
+    "name": "Karlskrona",
+    "code": "1080",
+    "neighbors": [
+      {
+        "name": "Torsås",
+        "code": "0834"
+      },
+      {
+        "name": "Emmaboda",
+        "code": "0862"
+      },
+      {
+        "name": "Ronneby",
+        "code": "1081"
+      }
+    ]
+  },
+  "1081": {
+    "name": "Ronneby",
+    "code": "1081",
+    "neighbors": [
+      {
+        "name": "Tingsryd",
+        "code": "0763"
+      },
+      {
+        "name": "Emmaboda",
+        "code": "0862"
+      },
+      {
+        "name": "Karlskrona",
+        "code": "1080"
+      },
+      {
+        "name": "Karlshamn",
+        "code": "1082"
+      }
+    ]
+  },
+  "1082": {
+    "name": "Karlshamn",
+    "code": "1082",
+    "neighbors": [
+      {
+        "name": "Tingsryd",
+        "code": "0763"
+      },
+      {
+        "name": "Olofström",
+        "code": "1060"
+      },
+      {
+        "name": "Ronneby",
+        "code": "1081"
+      },
+      {
+        "name": "Sölvesborg",
+        "code": "1083"
+      }
+    ]
+  },
+  "1083": {
+    "name": "Sölvesborg",
+    "code": "1083",
+    "neighbors": [
+      {
+        "name": "Olofström",
+        "code": "1060"
+      },
+      {
+        "name": "Karlshamn",
+        "code": "1082"
+      },
+      {
+        "name": "Bromölla",
+        "code": "1272"
+      }
+    ]
+  },
+  "1214": {
+    "name": "Svalöv",
+    "code": "1214",
+    "neighbors": [
+      {
+        "name": "Bjuv",
+        "code": "1260"
+      },
+      {
+        "name": "Kävlinge",
+        "code": "1261"
+      },
+      {
+        "name": "Klippan",
+        "code": "1276"
+      },
+      {
+        "name": "Åstorp",
+        "code": "1277"
+      },
+      {
+        "name": "Landskrona",
+        "code": "1282"
+      },
+      {
+        "name": "Helsingborg",
+        "code": "1283"
+      },
+      {
+        "name": "Eslöv",
+        "code": "1285"
+      }
+    ]
+  },
+  "1230": {
+    "name": "Staffanstorp",
+    "code": "1230",
+    "neighbors": [
+      {
+        "name": "Burlöv",
+        "code": "1231"
+      },
+      {
+        "name": "Lomma",
+        "code": "1262"
+      },
+      {
+        "name": "Svedala",
+        "code": "1263"
+      },
+      {
+        "name": "Malmö",
+        "code": "1280"
+      },
+      {
+        "name": "Lund",
+        "code": "1281"
+      }
+    ]
+  },
+  "1231": {
+    "name": "Burlöv",
+    "code": "1231",
+    "neighbors": [
+      {
+        "name": "Staffanstorp",
+        "code": "1230"
+      },
+      {
+        "name": "Lomma",
+        "code": "1262"
+      },
+      {
+        "name": "Malmö",
+        "code": "1280"
+      }
+    ]
+  },
+  "1233": {
+    "name": "Vellinge",
+    "code": "1233",
+    "neighbors": [
+      {
+        "name": "Svedala",
+        "code": "1263"
+      },
+      {
+        "name": "Malmö",
+        "code": "1280"
+      },
+      {
+        "name": "Trelleborg",
+        "code": "1287"
+      }
+    ]
+  },
+  "1256": {
+    "name": "Östra Göinge",
+    "code": "1256",
+    "neighbors": [
+      {
+        "name": "Olofström",
+        "code": "1060"
+      },
+      {
+        "name": "Osby",
+        "code": "1273"
+      },
+      {
+        "name": "Kristianstad",
+        "code": "1290"
+      },
+      {
+        "name": "Hässleholm",
+        "code": "1293"
+      }
+    ]
+  },
+  "1257": {
+    "name": "Örkelljunga",
+    "code": "1257",
+    "neighbors": [
+      {
+        "name": "Markaryd",
+        "code": "0767"
+      },
+      {
+        "name": "Perstorp",
+        "code": "1275"
+      },
+      {
+        "name": "Klippan",
+        "code": "1276"
+      },
+      {
+        "name": "Ängelholm",
+        "code": "1292"
+      },
+      {
+        "name": "Hässleholm",
+        "code": "1293"
+      },
+      {
+        "name": "Laholm",
+        "code": "1381"
+      }
+    ]
+  },
+  "1260": {
+    "name": "Bjuv",
+    "code": "1260",
+    "neighbors": [
+      {
+        "name": "Svalöv",
+        "code": "1214"
+      },
+      {
+        "name": "Åstorp",
+        "code": "1277"
+      },
+      {
+        "name": "Helsingborg",
+        "code": "1283"
+      }
+    ]
+  },
+  "1261": {
+    "name": "Kävlinge",
+    "code": "1261",
+    "neighbors": [
+      {
+        "name": "Svalöv",
+        "code": "1214"
+      },
+      {
+        "name": "Lomma",
+        "code": "1262"
+      },
+      {
+        "name": "Lund",
+        "code": "1281"
+      },
+      {
+        "name": "Landskrona",
+        "code": "1282"
+      },
+      {
+        "name": "Eslöv",
+        "code": "1285"
+      }
+    ]
+  },
+  "1262": {
+    "name": "Lomma",
+    "code": "1262",
+    "neighbors": [
+      {
+        "name": "Staffanstorp",
+        "code": "1230"
+      },
+      {
+        "name": "Burlöv",
+        "code": "1231"
+      },
+      {
+        "name": "Kävlinge",
+        "code": "1261"
+      },
+      {
+        "name": "Lund",
+        "code": "1281"
+      }
+    ]
+  },
+  "1263": {
+    "name": "Svedala",
+    "code": "1263",
+    "neighbors": [
+      {
+        "name": "Staffanstorp",
+        "code": "1230"
+      },
+      {
+        "name": "Vellinge",
+        "code": "1233"
+      },
+      {
+        "name": "Skurup",
+        "code": "1264"
+      },
+      {
+        "name": "Malmö",
+        "code": "1280"
+      },
+      {
+        "name": "Lund",
+        "code": "1281"
+      },
+      {
+        "name": "Trelleborg",
+        "code": "1287"
+      }
+    ]
+  },
+  "1264": {
+    "name": "Skurup",
+    "code": "1264",
+    "neighbors": [
+      {
+        "name": "Svedala",
+        "code": "1263"
+      },
+      {
+        "name": "Sjöbo",
+        "code": "1265"
+      },
+      {
+        "name": "Lund",
+        "code": "1281"
+      },
+      {
+        "name": "Ystad",
+        "code": "1286"
+      },
+      {
+        "name": "Trelleborg",
+        "code": "1287"
+      }
+    ]
+  },
+  "1265": {
+    "name": "Sjöbo",
+    "code": "1265",
+    "neighbors": [
+      {
+        "name": "Skurup",
+        "code": "1264"
+      },
+      {
+        "name": "Hörby",
+        "code": "1266"
+      },
+      {
+        "name": "Tomelilla",
+        "code": "1270"
+      },
+      {
+        "name": "Lund",
+        "code": "1281"
+      },
+      {
+        "name": "Eslöv",
+        "code": "1285"
+      },
+      {
+        "name": "Ystad",
+        "code": "1286"
+      }
+    ]
+  },
+  "1266": {
+    "name": "Hörby",
+    "code": "1266",
+    "neighbors": [
+      {
+        "name": "Sjöbo",
+        "code": "1265"
+      },
+      {
+        "name": "Höör",
+        "code": "1267"
+      },
+      {
+        "name": "Tomelilla",
+        "code": "1270"
+      },
+      {
+        "name": "Eslöv",
+        "code": "1285"
+      },
+      {
+        "name": "Kristianstad",
+        "code": "1290"
+      },
+      {
+        "name": "Hässleholm",
+        "code": "1293"
+      }
+    ]
+  },
+  "1267": {
+    "name": "Höör",
+    "code": "1267",
+    "neighbors": [
+      {
+        "name": "Hörby",
+        "code": "1266"
+      },
+      {
+        "name": "Klippan",
+        "code": "1276"
+      },
+      {
+        "name": "Eslöv",
+        "code": "1285"
+      },
+      {
+        "name": "Hässleholm",
+        "code": "1293"
+      }
+    ]
+  },
+  "1270": {
+    "name": "Tomelilla",
+    "code": "1270",
+    "neighbors": [
+      {
+        "name": "Sjöbo",
+        "code": "1265"
+      },
+      {
+        "name": "Hörby",
+        "code": "1266"
+      },
+      {
+        "name": "Ystad",
+        "code": "1286"
+      },
+      {
+        "name": "Kristianstad",
+        "code": "1290"
+      },
+      {
+        "name": "Simrishamn",
+        "code": "1291"
+      }
+    ]
+  },
+  "1272": {
+    "name": "Bromölla",
+    "code": "1272",
+    "neighbors": [
+      {
+        "name": "Olofström",
+        "code": "1060"
+      },
+      {
+        "name": "Sölvesborg",
+        "code": "1083"
+      },
+      {
+        "name": "Kristianstad",
+        "code": "1290"
+      }
+    ]
+  },
+  "1273": {
+    "name": "Osby",
+    "code": "1273",
+    "neighbors": [
+      {
+        "name": "Älmhult",
+        "code": "0765"
+      },
+      {
+        "name": "Markaryd",
+        "code": "0767"
+      },
+      {
+        "name": "Olofström",
+        "code": "1060"
+      },
+      {
+        "name": "Östra Göinge",
+        "code": "1256"
+      },
+      {
+        "name": "Kristianstad",
+        "code": "1290"
+      },
+      {
+        "name": "Hässleholm",
+        "code": "1293"
+      }
+    ]
+  },
+  "1275": {
+    "name": "Perstorp",
+    "code": "1275",
+    "neighbors": [
+      {
+        "name": "Örkelljunga",
+        "code": "1257"
+      },
+      {
+        "name": "Klippan",
+        "code": "1276"
+      },
+      {
+        "name": "Hässleholm",
+        "code": "1293"
+      }
+    ]
+  },
+  "1276": {
+    "name": "Klippan",
+    "code": "1276",
+    "neighbors": [
+      {
+        "name": "Svalöv",
+        "code": "1214"
+      },
+      {
+        "name": "Örkelljunga",
+        "code": "1257"
+      },
+      {
+        "name": "Höör",
+        "code": "1267"
+      },
+      {
+        "name": "Perstorp",
+        "code": "1275"
+      },
+      {
+        "name": "Åstorp",
+        "code": "1277"
+      },
+      {
+        "name": "Eslöv",
+        "code": "1285"
+      },
+      {
+        "name": "Ängelholm",
+        "code": "1292"
+      },
+      {
+        "name": "Hässleholm",
+        "code": "1293"
+      }
+    ]
+  },
+  "1277": {
+    "name": "Åstorp",
+    "code": "1277",
+    "neighbors": [
+      {
+        "name": "Svalöv",
+        "code": "1214"
+      },
+      {
+        "name": "Bjuv",
+        "code": "1260"
+      },
+      {
+        "name": "Klippan",
+        "code": "1276"
+      },
+      {
+        "name": "Helsingborg",
+        "code": "1283"
+      },
+      {
+        "name": "Ängelholm",
+        "code": "1292"
+      }
+    ]
+  },
+  "1278": {
+    "name": "Båstad",
+    "code": "1278",
+    "neighbors": [
+      {
+        "name": "Ängelholm",
+        "code": "1292"
+      },
+      {
+        "name": "Laholm",
+        "code": "1381"
+      }
+    ]
+  },
+  "1280": {
+    "name": "Malmö",
+    "code": "1280",
+    "neighbors": [
+      {
+        "name": "Staffanstorp",
+        "code": "1230"
+      },
+      {
+        "name": "Burlöv",
+        "code": "1231"
+      },
+      {
+        "name": "Vellinge",
+        "code": "1233"
+      },
+      {
+        "name": "Svedala",
+        "code": "1263"
+      }
+    ]
+  },
+  "1281": {
+    "name": "Lund",
+    "code": "1281",
+    "neighbors": [
+      {
+        "name": "Staffanstorp",
+        "code": "1230"
+      },
+      {
+        "name": "Kävlinge",
+        "code": "1261"
+      },
+      {
+        "name": "Lomma",
+        "code": "1262"
+      },
+      {
+        "name": "Svedala",
+        "code": "1263"
+      },
+      {
+        "name": "Skurup",
+        "code": "1264"
+      },
+      {
+        "name": "Sjöbo",
+        "code": "1265"
+      },
+      {
+        "name": "Eslöv",
+        "code": "1285"
+      },
+      {
+        "name": "Trelleborg",
+        "code": "1287"
+      }
+    ]
+  },
+  "1282": {
+    "name": "Landskrona",
+    "code": "1282",
+    "neighbors": [
+      {
+        "name": "Svalöv",
+        "code": "1214"
+      },
+      {
+        "name": "Kävlinge",
+        "code": "1261"
+      },
+      {
+        "name": "Helsingborg",
+        "code": "1283"
+      }
+    ]
+  },
+  "1283": {
+    "name": "Helsingborg",
+    "code": "1283",
+    "neighbors": [
+      {
+        "name": "Svalöv",
+        "code": "1214"
+      },
+      {
+        "name": "Bjuv",
+        "code": "1260"
+      },
+      {
+        "name": "Åstorp",
+        "code": "1277"
+      },
+      {
+        "name": "Landskrona",
+        "code": "1282"
+      },
+      {
+        "name": "Höganäs",
+        "code": "1284"
+      },
+      {
+        "name": "Ängelholm",
+        "code": "1292"
+      }
+    ]
+  },
+  "1284": {
+    "name": "Höganäs",
+    "code": "1284",
+    "neighbors": [
+      {
+        "name": "Helsingborg",
+        "code": "1283"
+      }
+    ]
+  },
+  "1285": {
+    "name": "Eslöv",
+    "code": "1285",
+    "neighbors": [
+      {
+        "name": "Svalöv",
+        "code": "1214"
+      },
+      {
+        "name": "Kävlinge",
+        "code": "1261"
+      },
+      {
+        "name": "Sjöbo",
+        "code": "1265"
+      },
+      {
+        "name": "Hörby",
+        "code": "1266"
+      },
+      {
+        "name": "Höör",
+        "code": "1267"
+      },
+      {
+        "name": "Klippan",
+        "code": "1276"
+      },
+      {
+        "name": "Lund",
+        "code": "1281"
+      }
+    ]
+  },
+  "1286": {
+    "name": "Ystad",
+    "code": "1286",
+    "neighbors": [
+      {
+        "name": "Skurup",
+        "code": "1264"
+      },
+      {
+        "name": "Sjöbo",
+        "code": "1265"
+      },
+      {
+        "name": "Tomelilla",
+        "code": "1270"
+      },
+      {
+        "name": "Simrishamn",
+        "code": "1291"
+      }
+    ]
+  },
+  "1287": {
+    "name": "Trelleborg",
+    "code": "1287",
+    "neighbors": [
+      {
+        "name": "Vellinge",
+        "code": "1233"
+      },
+      {
+        "name": "Svedala",
+        "code": "1263"
+      },
+      {
+        "name": "Skurup",
+        "code": "1264"
+      },
+      {
+        "name": "Lund",
+        "code": "1281"
+      }
+    ]
+  },
+  "1290": {
+    "name": "Kristianstad",
+    "code": "1290",
+    "neighbors": [
+      {
+        "name": "Olofström",
+        "code": "1060"
+      },
+      {
+        "name": "Östra Göinge",
+        "code": "1256"
+      },
+      {
+        "name": "Hörby",
+        "code": "1266"
+      },
+      {
+        "name": "Tomelilla",
+        "code": "1270"
+      },
+      {
+        "name": "Bromölla",
+        "code": "1272"
+      },
+      {
+        "name": "Osby",
+        "code": "1273"
+      },
+      {
+        "name": "Simrishamn",
+        "code": "1291"
+      },
+      {
+        "name": "Hässleholm",
+        "code": "1293"
+      }
+    ]
+  },
+  "1291": {
+    "name": "Simrishamn",
+    "code": "1291",
+    "neighbors": [
+      {
+        "name": "Tomelilla",
+        "code": "1270"
+      },
+      {
+        "name": "Ystad",
+        "code": "1286"
+      },
+      {
+        "name": "Kristianstad",
+        "code": "1290"
+      }
+    ]
+  },
+  "1292": {
+    "name": "Ängelholm",
+    "code": "1292",
+    "neighbors": [
+      {
+        "name": "Örkelljunga",
+        "code": "1257"
+      },
+      {
+        "name": "Klippan",
+        "code": "1276"
+      },
+      {
+        "name": "Åstorp",
+        "code": "1277"
+      },
+      {
+        "name": "Båstad",
+        "code": "1278"
+      },
+      {
+        "name": "Helsingborg",
+        "code": "1283"
+      },
+      {
+        "name": "Laholm",
+        "code": "1381"
+      }
+    ]
+  },
+  "1293": {
+    "name": "Hässleholm",
+    "code": "1293",
+    "neighbors": [
+      {
+        "name": "Älmhult",
+        "code": "0765"
+      },
+      {
+        "name": "Markaryd",
+        "code": "0767"
+      },
+      {
+        "name": "Östra Göinge",
+        "code": "1256"
+      },
+      {
+        "name": "Örkelljunga",
+        "code": "1257"
+      },
+      {
+        "name": "Hörby",
+        "code": "1266"
+      },
+      {
+        "name": "Höör",
+        "code": "1267"
+      },
+      {
+        "name": "Osby",
+        "code": "1273"
+      },
+      {
+        "name": "Perstorp",
+        "code": "1275"
+      },
+      {
+        "name": "Klippan",
+        "code": "1276"
+      },
+      {
+        "name": "Kristianstad",
+        "code": "1290"
+      }
+    ]
+  },
+  "1315": {
+    "name": "Hylte",
+    "code": "1315",
+    "neighbors": [
+      {
+        "name": "Gislaved",
+        "code": "0662"
+      },
+      {
+        "name": "Ljungby",
+        "code": "0781"
+      },
+      {
+        "name": "Halmstad",
+        "code": "1380"
+      },
+      {
+        "name": "Falkenberg",
+        "code": "1382"
+      }
+    ]
+  },
+  "1380": {
+    "name": "Halmstad",
+    "code": "1380",
+    "neighbors": [
+      {
+        "name": "Ljungby",
+        "code": "0781"
+      },
+      {
+        "name": "Hylte",
+        "code": "1315"
+      },
+      {
+        "name": "Laholm",
+        "code": "1381"
+      },
+      {
+        "name": "Falkenberg",
+        "code": "1382"
+      }
+    ]
+  },
+  "1381": {
+    "name": "Laholm",
+    "code": "1381",
+    "neighbors": [
+      {
+        "name": "Markaryd",
+        "code": "0767"
+      },
+      {
+        "name": "Ljungby",
+        "code": "0781"
+      },
+      {
+        "name": "Örkelljunga",
+        "code": "1257"
+      },
+      {
+        "name": "Båstad",
+        "code": "1278"
+      },
+      {
+        "name": "Ängelholm",
+        "code": "1292"
+      },
+      {
+        "name": "Halmstad",
+        "code": "1380"
+      }
+    ]
+  },
+  "1382": {
+    "name": "Falkenberg",
+    "code": "1382",
+    "neighbors": [
+      {
+        "name": "Gislaved",
+        "code": "0662"
+      },
+      {
+        "name": "Hylte",
+        "code": "1315"
+      },
+      {
+        "name": "Halmstad",
+        "code": "1380"
+      },
+      {
+        "name": "Varberg",
+        "code": "1383"
+      },
+      {
+        "name": "Mark",
+        "code": "1463"
+      },
+      {
+        "name": "Svenljunga",
+        "code": "1465"
+      }
+    ]
+  },
+  "1383": {
+    "name": "Varberg",
+    "code": "1383",
+    "neighbors": [
+      {
+        "name": "Falkenberg",
+        "code": "1382"
+      },
+      {
+        "name": "Kungsbacka",
+        "code": "1384"
+      },
+      {
+        "name": "Mark",
+        "code": "1463"
+      },
+      {
+        "name": "Svenljunga",
+        "code": "1465"
+      }
+    ]
+  },
+  "1384": {
+    "name": "Kungsbacka",
+    "code": "1384",
+    "neighbors": [
+      {
+        "name": "Varberg",
+        "code": "1383"
+      },
+      {
+        "name": "Härryda",
+        "code": "1401"
+      },
+      {
+        "name": "Mark",
+        "code": "1463"
+      },
+      {
+        "name": "Göteborg",
+        "code": "1480"
+      },
+      {
+        "name": "Mölndal",
+        "code": "1481"
+      }
+    ]
+  },
+  "1401": {
+    "name": "Härryda",
+    "code": "1401",
+    "neighbors": [
+      {
+        "name": "Kungsbacka",
+        "code": "1384"
+      },
+      {
+        "name": "Partille",
+        "code": "1402"
+      },
+      {
+        "name": "Lerum",
+        "code": "1441"
+      },
+      {
+        "name": "Bollebygd",
+        "code": "1443"
+      },
+      {
+        "name": "Mark",
+        "code": "1463"
+      },
+      {
+        "name": "Göteborg",
+        "code": "1480"
+      },
+      {
+        "name": "Mölndal",
+        "code": "1481"
+      }
+    ]
+  },
+  "1402": {
+    "name": "Partille",
+    "code": "1402",
+    "neighbors": [
+      {
+        "name": "Härryda",
+        "code": "1401"
+      },
+      {
+        "name": "Lerum",
+        "code": "1441"
+      },
+      {
+        "name": "Göteborg",
+        "code": "1480"
+      }
+    ]
+  },
+  "1407": {
+    "name": "Öckerö",
+    "code": "1407",
+    "neighbors": []
+  },
+  "1415": {
+    "name": "Stenungsund",
+    "code": "1415",
+    "neighbors": [
+      {
+        "name": "Lilla Edet",
+        "code": "1462"
+      },
+      {
+        "name": "Kungälv",
+        "code": "1482"
+      },
+      {
+        "name": "Uddevalla",
+        "code": "1485"
+      }
+    ]
+  },
+  "1419": {
+    "name": "Tjörn",
+    "code": "1419",
+    "neighbors": []
+  },
+  "1421": {
+    "name": "Orust",
+    "code": "1421",
+    "neighbors": [
+      {
+        "name": "Lysekil",
+        "code": "1484"
+      },
+      {
+        "name": "Uddevalla",
+        "code": "1485"
+      }
+    ]
+  },
+  "1427": {
+    "name": "Sotenäs",
+    "code": "1427",
+    "neighbors": [
+      {
+        "name": "Munkedal",
+        "code": "1430"
+      },
+      {
+        "name": "Tanum",
+        "code": "1435"
+      },
+      {
+        "name": "Lysekil",
+        "code": "1484"
+      }
+    ]
+  },
+  "1430": {
+    "name": "Munkedal",
+    "code": "1430",
+    "neighbors": [
+      {
+        "name": "Sotenäs",
+        "code": "1427"
+      },
+      {
+        "name": "Tanum",
+        "code": "1435"
+      },
+      {
+        "name": "Dals-Ed",
+        "code": "1438"
+      },
+      {
+        "name": "Färgelanda",
+        "code": "1439"
+      },
+      {
+        "name": "Lysekil",
+        "code": "1484"
+      },
+      {
+        "name": "Uddevalla",
+        "code": "1485"
+      }
+    ]
+  },
+  "1435": {
+    "name": "Tanum",
+    "code": "1435",
+    "neighbors": [
+      {
+        "name": "Sotenäs",
+        "code": "1427"
+      },
+      {
+        "name": "Munkedal",
+        "code": "1430"
+      },
+      {
+        "name": "Dals-Ed",
+        "code": "1438"
+      },
+      {
+        "name": "Strömstad",
+        "code": "1486"
+      }
+    ]
+  },
+  "1438": {
+    "name": "Dals-Ed",
+    "code": "1438",
+    "neighbors": [
+      {
+        "name": "Munkedal",
+        "code": "1430"
+      },
+      {
+        "name": "Tanum",
+        "code": "1435"
+      },
+      {
+        "name": "Färgelanda",
+        "code": "1439"
+      },
+      {
+        "name": "Bengtsfors",
+        "code": "1460"
+      },
+      {
+        "name": "Årjäng",
+        "code": "1765"
+      }
+    ]
+  },
+  "1439": {
+    "name": "Färgelanda",
+    "code": "1439",
+    "neighbors": [
+      {
+        "name": "Munkedal",
+        "code": "1430"
+      },
+      {
+        "name": "Dals-Ed",
+        "code": "1438"
+      },
+      {
+        "name": "Bengtsfors",
+        "code": "1460"
+      },
+      {
+        "name": "Mellerud",
+        "code": "1461"
+      },
+      {
+        "name": "Uddevalla",
+        "code": "1485"
+      },
+      {
+        "name": "Vänersborg",
+        "code": "1487"
+      }
+    ]
+  },
+  "1440": {
+    "name": "Ale",
+    "code": "1440",
+    "neighbors": [
+      {
+        "name": "Lerum",
+        "code": "1441"
+      },
+      {
+        "name": "Lilla Edet",
+        "code": "1462"
+      },
+      {
+        "name": "Göteborg",
+        "code": "1480"
+      },
+      {
+        "name": "Kungälv",
+        "code": "1482"
+      },
+      {
+        "name": "Trollhättan",
+        "code": "1488"
+      },
+      {
+        "name": "Alingsås",
+        "code": "1489"
+      }
+    ]
+  },
+  "1441": {
+    "name": "Lerum",
+    "code": "1441",
+    "neighbors": [
+      {
+        "name": "Härryda",
+        "code": "1401"
+      },
+      {
+        "name": "Partille",
+        "code": "1402"
+      },
+      {
+        "name": "Ale",
+        "code": "1440"
+      },
+      {
+        "name": "Bollebygd",
+        "code": "1443"
+      },
+      {
+        "name": "Göteborg",
+        "code": "1480"
+      },
+      {
+        "name": "Alingsås",
+        "code": "1489"
+      }
+    ]
+  },
+  "1442": {
+    "name": "Vårgårda",
+    "code": "1442",
+    "neighbors": [
+      {
+        "name": "Bollebygd",
+        "code": "1443"
+      },
+      {
+        "name": "Essunga",
+        "code": "1445"
+      },
+      {
+        "name": "Herrljunga",
+        "code": "1466"
+      },
+      {
+        "name": "Alingsås",
+        "code": "1489"
+      },
+      {
+        "name": "Borås",
+        "code": "1490"
+      }
+    ]
+  },
+  "1443": {
+    "name": "Bollebygd",
+    "code": "1443",
+    "neighbors": [
+      {
+        "name": "Härryda",
+        "code": "1401"
+      },
+      {
+        "name": "Lerum",
+        "code": "1441"
+      },
+      {
+        "name": "Vårgårda",
+        "code": "1442"
+      },
+      {
+        "name": "Mark",
+        "code": "1463"
+      },
+      {
+        "name": "Alingsås",
+        "code": "1489"
+      },
+      {
+        "name": "Borås",
+        "code": "1490"
+      }
+    ]
+  },
+  "1444": {
+    "name": "Grästorp",
+    "code": "1444",
+    "neighbors": [
+      {
+        "name": "Essunga",
+        "code": "1445"
+      },
+      {
+        "name": "Vara",
+        "code": "1470"
+      },
+      {
+        "name": "Vänersborg",
+        "code": "1487"
+      },
+      {
+        "name": "Trollhättan",
+        "code": "1488"
+      },
+      {
+        "name": "Lidköping",
+        "code": "1494"
+      }
+    ]
+  },
+  "1445": {
+    "name": "Essunga",
+    "code": "1445",
+    "neighbors": [
+      {
+        "name": "Vårgårda",
+        "code": "1442"
+      },
+      {
+        "name": "Grästorp",
+        "code": "1444"
+      },
+      {
+        "name": "Herrljunga",
+        "code": "1466"
+      },
+      {
+        "name": "Vara",
+        "code": "1470"
+      },
+      {
+        "name": "Trollhättan",
+        "code": "1488"
+      },
+      {
+        "name": "Alingsås",
+        "code": "1489"
+      }
+    ]
+  },
+  "1446": {
+    "name": "Karlsborg",
+    "code": "1446",
+    "neighbors": [
+      {
+        "name": "Tibro",
+        "code": "1472"
+      },
+      {
+        "name": "Töreboda",
+        "code": "1473"
+      },
+      {
+        "name": "Hjo",
+        "code": "1497"
+      },
+      {
+        "name": "Laxå",
+        "code": "1860"
+      },
+      {
+        "name": "Askersund",
+        "code": "1882"
+      }
+    ]
+  },
+  "1447": {
+    "name": "Gullspång",
+    "code": "1447",
+    "neighbors": [
+      {
+        "name": "Töreboda",
+        "code": "1473"
+      },
+      {
+        "name": "Mariestad",
+        "code": "1493"
+      },
+      {
+        "name": "Kristinehamn",
+        "code": "1781"
+      },
+      {
+        "name": "Laxå",
+        "code": "1860"
+      },
+      {
+        "name": "Degerfors",
+        "code": "1862"
+      }
+    ]
+  },
+  "1452": {
+    "name": "Tranemo",
+    "code": "1452",
+    "neighbors": [
+      {
+        "name": "Gislaved",
+        "code": "0662"
+      },
+      {
+        "name": "Jönköping",
+        "code": "0680"
+      },
+      {
+        "name": "Svenljunga",
+        "code": "1465"
+      },
+      {
+        "name": "Borås",
+        "code": "1490"
+      },
+      {
+        "name": "Ulricehamn",
+        "code": "1491"
+      }
+    ]
+  },
+  "1460": {
+    "name": "Bengtsfors",
+    "code": "1460",
+    "neighbors": [
+      {
+        "name": "Dals-Ed",
+        "code": "1438"
+      },
+      {
+        "name": "Färgelanda",
+        "code": "1439"
+      },
+      {
+        "name": "Mellerud",
+        "code": "1461"
+      },
+      {
+        "name": "Åmål",
+        "code": "1492"
+      },
+      {
+        "name": "Årjäng",
+        "code": "1765"
+      },
+      {
+        "name": "Säffle",
+        "code": "1785"
+      }
+    ]
+  },
+  "1461": {
+    "name": "Mellerud",
+    "code": "1461",
+    "neighbors": [
+      {
+        "name": "Färgelanda",
+        "code": "1439"
+      },
+      {
+        "name": "Bengtsfors",
+        "code": "1460"
+      },
+      {
+        "name": "Vänersborg",
+        "code": "1487"
+      },
+      {
+        "name": "Åmål",
+        "code": "1492"
+      }
+    ]
+  },
+  "1462": {
+    "name": "Lilla Edet",
+    "code": "1462",
+    "neighbors": [
+      {
+        "name": "Stenungsund",
+        "code": "1415"
+      },
+      {
+        "name": "Ale",
+        "code": "1440"
+      },
+      {
+        "name": "Kungälv",
+        "code": "1482"
+      },
+      {
+        "name": "Uddevalla",
+        "code": "1485"
+      },
+      {
+        "name": "Vänersborg",
+        "code": "1487"
+      },
+      {
+        "name": "Trollhättan",
+        "code": "1488"
+      }
+    ]
+  },
+  "1463": {
+    "name": "Mark",
+    "code": "1463",
+    "neighbors": [
+      {
+        "name": "Falkenberg",
+        "code": "1382"
+      },
+      {
+        "name": "Varberg",
+        "code": "1383"
+      },
+      {
+        "name": "Kungsbacka",
+        "code": "1384"
+      },
+      {
+        "name": "Härryda",
+        "code": "1401"
+      },
+      {
+        "name": "Bollebygd",
+        "code": "1443"
+      },
+      {
+        "name": "Svenljunga",
+        "code": "1465"
+      },
+      {
+        "name": "Mölndal",
+        "code": "1481"
+      },
+      {
+        "name": "Borås",
+        "code": "1490"
+      }
+    ]
+  },
+  "1465": {
+    "name": "Svenljunga",
+    "code": "1465",
+    "neighbors": [
+      {
+        "name": "Gislaved",
+        "code": "0662"
+      },
+      {
+        "name": "Falkenberg",
+        "code": "1382"
+      },
+      {
+        "name": "Varberg",
+        "code": "1383"
+      },
+      {
+        "name": "Tranemo",
+        "code": "1452"
+      },
+      {
+        "name": "Mark",
+        "code": "1463"
+      },
+      {
+        "name": "Borås",
+        "code": "1490"
+      }
+    ]
+  },
+  "1466": {
+    "name": "Herrljunga",
+    "code": "1466",
+    "neighbors": [
+      {
+        "name": "Vårgårda",
+        "code": "1442"
+      },
+      {
+        "name": "Essunga",
+        "code": "1445"
+      },
+      {
+        "name": "Vara",
+        "code": "1470"
+      },
+      {
+        "name": "Borås",
+        "code": "1490"
+      },
+      {
+        "name": "Ulricehamn",
+        "code": "1491"
+      },
+      {
+        "name": "Falköping",
+        "code": "1499"
+      }
+    ]
+  },
+  "1470": {
+    "name": "Vara",
+    "code": "1470",
+    "neighbors": [
+      {
+        "name": "Grästorp",
+        "code": "1444"
+      },
+      {
+        "name": "Essunga",
+        "code": "1445"
+      },
+      {
+        "name": "Herrljunga",
+        "code": "1466"
+      },
+      {
+        "name": "Lidköping",
+        "code": "1494"
+      },
+      {
+        "name": "Skara",
+        "code": "1495"
+      },
+      {
+        "name": "Falköping",
+        "code": "1499"
+      }
+    ]
+  },
+  "1471": {
+    "name": "Götene",
+    "code": "1471",
+    "neighbors": [
+      {
+        "name": "Mariestad",
+        "code": "1493"
+      },
+      {
+        "name": "Lidköping",
+        "code": "1494"
+      },
+      {
+        "name": "Skara",
+        "code": "1495"
+      },
+      {
+        "name": "Skövde",
+        "code": "1496"
+      }
+    ]
+  },
+  "1472": {
+    "name": "Tibro",
+    "code": "1472",
+    "neighbors": [
+      {
+        "name": "Karlsborg",
+        "code": "1446"
+      },
+      {
+        "name": "Töreboda",
+        "code": "1473"
+      },
+      {
+        "name": "Skövde",
+        "code": "1496"
+      },
+      {
+        "name": "Hjo",
+        "code": "1497"
+      }
+    ]
+  },
+  "1473": {
+    "name": "Töreboda",
+    "code": "1473",
+    "neighbors": [
+      {
+        "name": "Karlsborg",
+        "code": "1446"
+      },
+      {
+        "name": "Gullspång",
+        "code": "1447"
+      },
+      {
+        "name": "Tibro",
+        "code": "1472"
+      },
+      {
+        "name": "Mariestad",
+        "code": "1493"
+      },
+      {
+        "name": "Skövde",
+        "code": "1496"
+      },
+      {
+        "name": "Laxå",
+        "code": "1860"
+      }
+    ]
+  },
+  "1480": {
+    "name": "Göteborg",
+    "code": "1480",
+    "neighbors": [
+      {
+        "name": "Kungsbacka",
+        "code": "1384"
+      },
+      {
+        "name": "Härryda",
+        "code": "1401"
+      },
+      {
+        "name": "Partille",
+        "code": "1402"
+      },
+      {
+        "name": "Ale",
+        "code": "1440"
+      },
+      {
+        "name": "Lerum",
+        "code": "1441"
+      },
+      {
+        "name": "Mölndal",
+        "code": "1481"
+      },
+      {
+        "name": "Kungälv",
+        "code": "1482"
+      }
+    ]
+  },
+  "1481": {
+    "name": "Mölndal",
+    "code": "1481",
+    "neighbors": [
+      {
+        "name": "Kungsbacka",
+        "code": "1384"
+      },
+      {
+        "name": "Härryda",
+        "code": "1401"
+      },
+      {
+        "name": "Mark",
+        "code": "1463"
+      },
+      {
+        "name": "Göteborg",
+        "code": "1480"
+      }
+    ]
+  },
+  "1482": {
+    "name": "Kungälv",
+    "code": "1482",
+    "neighbors": [
+      {
+        "name": "Stenungsund",
+        "code": "1415"
+      },
+      {
+        "name": "Ale",
+        "code": "1440"
+      },
+      {
+        "name": "Lilla Edet",
+        "code": "1462"
+      },
+      {
+        "name": "Göteborg",
+        "code": "1480"
+      }
+    ]
+  },
+  "1484": {
+    "name": "Lysekil",
+    "code": "1484",
+    "neighbors": [
+      {
+        "name": "Orust",
+        "code": "1421"
+      },
+      {
+        "name": "Sotenäs",
+        "code": "1427"
+      },
+      {
+        "name": "Munkedal",
+        "code": "1430"
+      },
+      {
+        "name": "Uddevalla",
+        "code": "1485"
+      }
+    ]
+  },
+  "1485": {
+    "name": "Uddevalla",
+    "code": "1485",
+    "neighbors": [
+      {
+        "name": "Stenungsund",
+        "code": "1415"
+      },
+      {
+        "name": "Orust",
+        "code": "1421"
+      },
+      {
+        "name": "Munkedal",
+        "code": "1430"
+      },
+      {
+        "name": "Färgelanda",
+        "code": "1439"
+      },
+      {
+        "name": "Lilla Edet",
+        "code": "1462"
+      },
+      {
+        "name": "Lysekil",
+        "code": "1484"
+      },
+      {
+        "name": "Vänersborg",
+        "code": "1487"
+      },
+      {
+        "name": "Trollhättan",
+        "code": "1488"
+      }
+    ]
+  },
+  "1486": {
+    "name": "Strömstad",
+    "code": "1486",
+    "neighbors": [
+      {
+        "name": "Tanum",
+        "code": "1435"
+      }
+    ]
+  },
+  "1487": {
+    "name": "Vänersborg",
+    "code": "1487",
+    "neighbors": [
+      {
+        "name": "Färgelanda",
+        "code": "1439"
+      },
+      {
+        "name": "Grästorp",
+        "code": "1444"
+      },
+      {
+        "name": "Mellerud",
+        "code": "1461"
+      },
+      {
+        "name": "Lilla Edet",
+        "code": "1462"
+      },
+      {
+        "name": "Uddevalla",
+        "code": "1485"
+      },
+      {
+        "name": "Trollhättan",
+        "code": "1488"
+      },
+      {
+        "name": "Lidköping",
+        "code": "1494"
+      }
+    ]
+  },
+  "1488": {
+    "name": "Trollhättan",
+    "code": "1488",
+    "neighbors": [
+      {
+        "name": "Ale",
+        "code": "1440"
+      },
+      {
+        "name": "Grästorp",
+        "code": "1444"
+      },
+      {
+        "name": "Essunga",
+        "code": "1445"
+      },
+      {
+        "name": "Lilla Edet",
+        "code": "1462"
+      },
+      {
+        "name": "Uddevalla",
+        "code": "1485"
+      },
+      {
+        "name": "Vänersborg",
+        "code": "1487"
+      },
+      {
+        "name": "Alingsås",
+        "code": "1489"
+      }
+    ]
+  },
+  "1489": {
+    "name": "Alingsås",
+    "code": "1489",
+    "neighbors": [
+      {
+        "name": "Ale",
+        "code": "1440"
+      },
+      {
+        "name": "Lerum",
+        "code": "1441"
+      },
+      {
+        "name": "Vårgårda",
+        "code": "1442"
+      },
+      {
+        "name": "Bollebygd",
+        "code": "1443"
+      },
+      {
+        "name": "Essunga",
+        "code": "1445"
+      },
+      {
+        "name": "Trollhättan",
+        "code": "1488"
+      }
+    ]
+  },
+  "1490": {
+    "name": "Borås",
+    "code": "1490",
+    "neighbors": [
+      {
+        "name": "Vårgårda",
+        "code": "1442"
+      },
+      {
+        "name": "Bollebygd",
+        "code": "1443"
+      },
+      {
+        "name": "Tranemo",
+        "code": "1452"
+      },
+      {
+        "name": "Mark",
+        "code": "1463"
+      },
+      {
+        "name": "Svenljunga",
+        "code": "1465"
+      },
+      {
+        "name": "Herrljunga",
+        "code": "1466"
+      },
+      {
+        "name": "Ulricehamn",
+        "code": "1491"
+      }
+    ]
+  },
+  "1491": {
+    "name": "Ulricehamn",
+    "code": "1491",
+    "neighbors": [
+      {
+        "name": "Mullsjö",
+        "code": "0642"
+      },
+      {
+        "name": "Jönköping",
+        "code": "0680"
+      },
+      {
+        "name": "Tranemo",
+        "code": "1452"
+      },
+      {
+        "name": "Herrljunga",
+        "code": "1466"
+      },
+      {
+        "name": "Borås",
+        "code": "1490"
+      },
+      {
+        "name": "Falköping",
+        "code": "1499"
+      }
+    ]
+  },
+  "1492": {
+    "name": "Åmål",
+    "code": "1492",
+    "neighbors": [
+      {
+        "name": "Bengtsfors",
+        "code": "1460"
+      },
+      {
+        "name": "Mellerud",
+        "code": "1461"
+      },
+      {
+        "name": "Årjäng",
+        "code": "1765"
+      },
+      {
+        "name": "Säffle",
+        "code": "1785"
+      }
+    ]
+  },
+  "1493": {
+    "name": "Mariestad",
+    "code": "1493",
+    "neighbors": [
+      {
+        "name": "Gullspång",
+        "code": "1447"
+      },
+      {
+        "name": "Götene",
+        "code": "1471"
+      },
+      {
+        "name": "Töreboda",
+        "code": "1473"
+      },
+      {
+        "name": "Skövde",
+        "code": "1496"
+      }
+    ]
+  },
+  "1494": {
+    "name": "Lidköping",
+    "code": "1494",
+    "neighbors": [
+      {
+        "name": "Grästorp",
+        "code": "1444"
+      },
+      {
+        "name": "Vara",
+        "code": "1470"
+      },
+      {
+        "name": "Götene",
+        "code": "1471"
+      },
+      {
+        "name": "Vänersborg",
+        "code": "1487"
+      },
+      {
+        "name": "Skara",
+        "code": "1495"
+      }
+    ]
+  },
+  "1495": {
+    "name": "Skara",
+    "code": "1495",
+    "neighbors": [
+      {
+        "name": "Vara",
+        "code": "1470"
+      },
+      {
+        "name": "Götene",
+        "code": "1471"
+      },
+      {
+        "name": "Lidköping",
+        "code": "1494"
+      },
+      {
+        "name": "Skövde",
+        "code": "1496"
+      },
+      {
+        "name": "Falköping",
+        "code": "1499"
+      }
+    ]
+  },
+  "1496": {
+    "name": "Skövde",
+    "code": "1496",
+    "neighbors": [
+      {
+        "name": "Götene",
+        "code": "1471"
+      },
+      {
+        "name": "Tibro",
+        "code": "1472"
+      },
+      {
+        "name": "Töreboda",
+        "code": "1473"
+      },
+      {
+        "name": "Mariestad",
+        "code": "1493"
+      },
+      {
+        "name": "Skara",
+        "code": "1495"
+      },
+      {
+        "name": "Hjo",
+        "code": "1497"
+      },
+      {
+        "name": "Tidaholm",
+        "code": "1498"
+      },
+      {
+        "name": "Falköping",
+        "code": "1499"
+      }
+    ]
+  },
+  "1497": {
+    "name": "Hjo",
+    "code": "1497",
+    "neighbors": [
+      {
+        "name": "Habo",
+        "code": "0643"
+      },
+      {
+        "name": "Karlsborg",
+        "code": "1446"
+      },
+      {
+        "name": "Tibro",
+        "code": "1472"
+      },
+      {
+        "name": "Skövde",
+        "code": "1496"
+      },
+      {
+        "name": "Tidaholm",
+        "code": "1498"
+      }
+    ]
+  },
+  "1498": {
+    "name": "Tidaholm",
+    "code": "1498",
+    "neighbors": [
+      {
+        "name": "Mullsjö",
+        "code": "0642"
+      },
+      {
+        "name": "Habo",
+        "code": "0643"
+      },
+      {
+        "name": "Skövde",
+        "code": "1496"
+      },
+      {
+        "name": "Hjo",
+        "code": "1497"
+      },
+      {
+        "name": "Falköping",
+        "code": "1499"
+      }
+    ]
+  },
+  "1499": {
+    "name": "Falköping",
+    "code": "1499",
+    "neighbors": [
+      {
+        "name": "Mullsjö",
+        "code": "0642"
+      },
+      {
+        "name": "Herrljunga",
+        "code": "1466"
+      },
+      {
+        "name": "Vara",
+        "code": "1470"
+      },
+      {
+        "name": "Ulricehamn",
+        "code": "1491"
+      },
+      {
+        "name": "Skara",
+        "code": "1495"
+      },
+      {
+        "name": "Skövde",
+        "code": "1496"
+      },
+      {
+        "name": "Tidaholm",
+        "code": "1498"
+      }
+    ]
+  },
+  "1715": {
+    "name": "Kil",
+    "code": "1715",
+    "neighbors": [
+      {
+        "name": "Forshaga",
+        "code": "1763"
+      },
+      {
+        "name": "Grums",
+        "code": "1764"
+      },
+      {
+        "name": "Sunne",
+        "code": "1766"
+      },
+      {
+        "name": "Karlstad",
+        "code": "1780"
+      },
+      {
+        "name": "Arvika",
+        "code": "1784"
+      }
+    ]
+  },
+  "1730": {
+    "name": "Eda",
+    "code": "1730",
+    "neighbors": [
+      {
+        "name": "Årjäng",
+        "code": "1765"
+      },
+      {
+        "name": "Arvika",
+        "code": "1784"
+      }
+    ]
+  },
+  "1737": {
+    "name": "Torsby",
+    "code": "1737",
+    "neighbors": [
+      {
+        "name": "Sunne",
+        "code": "1766"
+      },
+      {
+        "name": "Hagfors",
+        "code": "1783"
+      },
+      {
+        "name": "Arvika",
+        "code": "1784"
+      },
+      {
+        "name": "Malung-Sälen",
+        "code": "2023"
+      }
+    ]
+  },
+  "1760": {
+    "name": "Storfors",
+    "code": "1760",
+    "neighbors": [
+      {
+        "name": "Karlstad",
+        "code": "1780"
+      },
+      {
+        "name": "Kristinehamn",
+        "code": "1781"
+      },
+      {
+        "name": "Filipstad",
+        "code": "1782"
+      },
+      {
+        "name": "Hällefors",
+        "code": "1863"
+      },
+      {
+        "name": "Karlskoga",
+        "code": "1883"
+      }
+    ]
+  },
+  "1761": {
+    "name": "Hammarö",
+    "code": "1761",
+    "neighbors": [
+      {
+        "name": "Karlstad",
+        "code": "1780"
+      }
+    ]
+  },
+  "1762": {
+    "name": "Munkfors",
+    "code": "1762",
+    "neighbors": [
+      {
+        "name": "Forshaga",
+        "code": "1763"
+      },
+      {
+        "name": "Sunne",
+        "code": "1766"
+      },
+      {
+        "name": "Hagfors",
+        "code": "1783"
+      }
+    ]
+  },
+  "1763": {
+    "name": "Forshaga",
+    "code": "1763",
+    "neighbors": [
+      {
+        "name": "Kil",
+        "code": "1715"
+      },
+      {
+        "name": "Munkfors",
+        "code": "1762"
+      },
+      {
+        "name": "Sunne",
+        "code": "1766"
+      },
+      {
+        "name": "Karlstad",
+        "code": "1780"
+      },
+      {
+        "name": "Hagfors",
+        "code": "1783"
+      }
+    ]
+  },
+  "1764": {
+    "name": "Grums",
+    "code": "1764",
+    "neighbors": [
+      {
+        "name": "Kil",
+        "code": "1715"
+      },
+      {
+        "name": "Karlstad",
+        "code": "1780"
+      },
+      {
+        "name": "Arvika",
+        "code": "1784"
+      },
+      {
+        "name": "Säffle",
+        "code": "1785"
+      }
+    ]
+  },
+  "1765": {
+    "name": "Årjäng",
+    "code": "1765",
+    "neighbors": [
+      {
+        "name": "Dals-Ed",
+        "code": "1438"
+      },
+      {
+        "name": "Bengtsfors",
+        "code": "1460"
+      },
+      {
+        "name": "Åmål",
+        "code": "1492"
+      },
+      {
+        "name": "Eda",
+        "code": "1730"
+      },
+      {
+        "name": "Arvika",
+        "code": "1784"
+      },
+      {
+        "name": "Säffle",
+        "code": "1785"
+      }
+    ]
+  },
+  "1766": {
+    "name": "Sunne",
+    "code": "1766",
+    "neighbors": [
+      {
+        "name": "Kil",
+        "code": "1715"
+      },
+      {
+        "name": "Torsby",
+        "code": "1737"
+      },
+      {
+        "name": "Munkfors",
+        "code": "1762"
+      },
+      {
+        "name": "Forshaga",
+        "code": "1763"
+      },
+      {
+        "name": "Hagfors",
+        "code": "1783"
+      },
+      {
+        "name": "Arvika",
+        "code": "1784"
+      }
+    ]
+  },
+  "1780": {
+    "name": "Karlstad",
+    "code": "1780",
+    "neighbors": [
+      {
+        "name": "Kil",
+        "code": "1715"
+      },
+      {
+        "name": "Storfors",
+        "code": "1760"
+      },
+      {
+        "name": "Hammarö",
+        "code": "1761"
+      },
+      {
+        "name": "Forshaga",
+        "code": "1763"
+      },
+      {
+        "name": "Grums",
+        "code": "1764"
+      },
+      {
+        "name": "Kristinehamn",
+        "code": "1781"
+      },
+      {
+        "name": "Filipstad",
+        "code": "1782"
+      },
+      {
+        "name": "Hagfors",
+        "code": "1783"
+      }
+    ]
+  },
+  "1781": {
+    "name": "Kristinehamn",
+    "code": "1781",
+    "neighbors": [
+      {
+        "name": "Gullspång",
+        "code": "1447"
+      },
+      {
+        "name": "Storfors",
+        "code": "1760"
+      },
+      {
+        "name": "Karlstad",
+        "code": "1780"
+      },
+      {
+        "name": "Laxå",
+        "code": "1860"
+      },
+      {
+        "name": "Degerfors",
+        "code": "1862"
+      },
+      {
+        "name": "Karlskoga",
+        "code": "1883"
+      }
+    ]
+  },
+  "1782": {
+    "name": "Filipstad",
+    "code": "1782",
+    "neighbors": [
+      {
+        "name": "Storfors",
+        "code": "1760"
+      },
+      {
+        "name": "Karlstad",
+        "code": "1780"
+      },
+      {
+        "name": "Hagfors",
+        "code": "1783"
+      },
+      {
+        "name": "Hällefors",
+        "code": "1863"
+      },
+      {
+        "name": "Vansbro",
+        "code": "2021"
+      },
+      {
+        "name": "Malung-Sälen",
+        "code": "2023"
+      },
+      {
+        "name": "Ludvika",
+        "code": "2085"
+      }
+    ]
+  },
+  "1783": {
+    "name": "Hagfors",
+    "code": "1783",
+    "neighbors": [
+      {
+        "name": "Torsby",
+        "code": "1737"
+      },
+      {
+        "name": "Munkfors",
+        "code": "1762"
+      },
+      {
+        "name": "Forshaga",
+        "code": "1763"
+      },
+      {
+        "name": "Sunne",
+        "code": "1766"
+      },
+      {
+        "name": "Karlstad",
+        "code": "1780"
+      },
+      {
+        "name": "Filipstad",
+        "code": "1782"
+      },
+      {
+        "name": "Malung-Sälen",
+        "code": "2023"
+      }
+    ]
+  },
+  "1784": {
+    "name": "Arvika",
+    "code": "1784",
+    "neighbors": [
+      {
+        "name": "Kil",
+        "code": "1715"
+      },
+      {
+        "name": "Eda",
+        "code": "1730"
+      },
+      {
+        "name": "Torsby",
+        "code": "1737"
+      },
+      {
+        "name": "Grums",
+        "code": "1764"
+      },
+      {
+        "name": "Årjäng",
+        "code": "1765"
+      },
+      {
+        "name": "Sunne",
+        "code": "1766"
+      },
+      {
+        "name": "Säffle",
+        "code": "1785"
+      }
+    ]
+  },
+  "1785": {
+    "name": "Säffle",
+    "code": "1785",
+    "neighbors": [
+      {
+        "name": "Bengtsfors",
+        "code": "1460"
+      },
+      {
+        "name": "Åmål",
+        "code": "1492"
+      },
+      {
+        "name": "Grums",
+        "code": "1764"
+      },
+      {
+        "name": "Årjäng",
+        "code": "1765"
+      },
+      {
+        "name": "Arvika",
+        "code": "1784"
+      }
+    ]
+  },
+  "1814": {
+    "name": "Lekeberg",
+    "code": "1814",
+    "neighbors": [
+      {
+        "name": "Laxå",
+        "code": "1860"
+      },
+      {
+        "name": "Hallsberg",
+        "code": "1861"
+      },
+      {
+        "name": "Degerfors",
+        "code": "1862"
+      },
+      {
+        "name": "Örebro",
+        "code": "1880"
+      },
+      {
+        "name": "Kumla",
+        "code": "1881"
+      },
+      {
+        "name": "Karlskoga",
+        "code": "1883"
+      }
+    ]
+  },
+  "1860": {
+    "name": "Laxå",
+    "code": "1860",
+    "neighbors": [
+      {
+        "name": "Karlsborg",
+        "code": "1446"
+      },
+      {
+        "name": "Gullspång",
+        "code": "1447"
+      },
+      {
+        "name": "Töreboda",
+        "code": "1473"
+      },
+      {
+        "name": "Kristinehamn",
+        "code": "1781"
+      },
+      {
+        "name": "Lekeberg",
+        "code": "1814"
+      },
+      {
+        "name": "Hallsberg",
+        "code": "1861"
+      },
+      {
+        "name": "Degerfors",
+        "code": "1862"
+      },
+      {
+        "name": "Askersund",
+        "code": "1882"
+      }
+    ]
+  },
+  "1861": {
+    "name": "Hallsberg",
+    "code": "1861",
+    "neighbors": [
+      {
+        "name": "Finspång",
+        "code": "0562"
+      },
+      {
+        "name": "Motala",
+        "code": "0583"
+      },
+      {
+        "name": "Lekeberg",
+        "code": "1814"
+      },
+      {
+        "name": "Laxå",
+        "code": "1860"
+      },
+      {
+        "name": "Örebro",
+        "code": "1880"
+      },
+      {
+        "name": "Kumla",
+        "code": "1881"
+      },
+      {
+        "name": "Askersund",
+        "code": "1882"
+      }
+    ]
+  },
+  "1862": {
+    "name": "Degerfors",
+    "code": "1862",
+    "neighbors": [
+      {
+        "name": "Gullspång",
+        "code": "1447"
+      },
+      {
+        "name": "Kristinehamn",
+        "code": "1781"
+      },
+      {
+        "name": "Lekeberg",
+        "code": "1814"
+      },
+      {
+        "name": "Laxå",
+        "code": "1860"
+      },
+      {
+        "name": "Karlskoga",
+        "code": "1883"
+      }
+    ]
+  },
+  "1863": {
+    "name": "Hällefors",
+    "code": "1863",
+    "neighbors": [
+      {
+        "name": "Storfors",
+        "code": "1760"
+      },
+      {
+        "name": "Filipstad",
+        "code": "1782"
+      },
+      {
+        "name": "Ljusnarsberg",
+        "code": "1864"
+      },
+      {
+        "name": "Karlskoga",
+        "code": "1883"
+      },
+      {
+        "name": "Nora",
+        "code": "1884"
+      },
+      {
+        "name": "Lindesberg",
+        "code": "1885"
+      },
+      {
+        "name": "Ludvika",
+        "code": "2085"
+      }
+    ]
+  },
+  "1864": {
+    "name": "Ljusnarsberg",
+    "code": "1864",
+    "neighbors": [
+      {
+        "name": "Hällefors",
+        "code": "1863"
+      },
+      {
+        "name": "Lindesberg",
+        "code": "1885"
+      },
+      {
+        "name": "Smedjebacken",
+        "code": "2061"
+      },
+      {
+        "name": "Ludvika",
+        "code": "2085"
+      }
+    ]
+  },
+  "1880": {
+    "name": "Örebro",
+    "code": "1880",
+    "neighbors": [
+      {
+        "name": "Vingåker",
+        "code": "0428"
+      },
+      {
+        "name": "Finspång",
+        "code": "0562"
+      },
+      {
+        "name": "Lekeberg",
+        "code": "1814"
+      },
+      {
+        "name": "Hallsberg",
+        "code": "1861"
+      },
+      {
+        "name": "Kumla",
+        "code": "1881"
+      },
+      {
+        "name": "Karlskoga",
+        "code": "1883"
+      },
+      {
+        "name": "Nora",
+        "code": "1884"
+      },
+      {
+        "name": "Lindesberg",
+        "code": "1885"
+      },
+      {
+        "name": "Arboga",
+        "code": "1984"
+      }
+    ]
+  },
+  "1881": {
+    "name": "Kumla",
+    "code": "1881",
+    "neighbors": [
+      {
+        "name": "Lekeberg",
+        "code": "1814"
+      },
+      {
+        "name": "Hallsberg",
+        "code": "1861"
+      },
+      {
+        "name": "Örebro",
+        "code": "1880"
+      }
+    ]
+  },
+  "1882": {
+    "name": "Askersund",
+    "code": "1882",
+    "neighbors": [
+      {
+        "name": "Motala",
+        "code": "0583"
+      },
+      {
+        "name": "Karlsborg",
+        "code": "1446"
+      },
+      {
+        "name": "Laxå",
+        "code": "1860"
+      },
+      {
+        "name": "Hallsberg",
+        "code": "1861"
+      }
+    ]
+  },
+  "1883": {
+    "name": "Karlskoga",
+    "code": "1883",
+    "neighbors": [
+      {
+        "name": "Storfors",
+        "code": "1760"
+      },
+      {
+        "name": "Kristinehamn",
+        "code": "1781"
+      },
+      {
+        "name": "Lekeberg",
+        "code": "1814"
+      },
+      {
+        "name": "Degerfors",
+        "code": "1862"
+      },
+      {
+        "name": "Hällefors",
+        "code": "1863"
+      },
+      {
+        "name": "Örebro",
+        "code": "1880"
+      },
+      {
+        "name": "Nora",
+        "code": "1884"
+      }
+    ]
+  },
+  "1884": {
+    "name": "Nora",
+    "code": "1884",
+    "neighbors": [
+      {
+        "name": "Hällefors",
+        "code": "1863"
+      },
+      {
+        "name": "Örebro",
+        "code": "1880"
+      },
+      {
+        "name": "Karlskoga",
+        "code": "1883"
+      },
+      {
+        "name": "Lindesberg",
+        "code": "1885"
+      }
+    ]
+  },
+  "1885": {
+    "name": "Lindesberg",
+    "code": "1885",
+    "neighbors": [
+      {
+        "name": "Hällefors",
+        "code": "1863"
+      },
+      {
+        "name": "Ljusnarsberg",
+        "code": "1864"
+      },
+      {
+        "name": "Örebro",
+        "code": "1880"
+      },
+      {
+        "name": "Nora",
+        "code": "1884"
+      },
+      {
+        "name": "Skinnskatteberg",
+        "code": "1904"
+      },
+      {
+        "name": "Köping",
+        "code": "1983"
+      },
+      {
+        "name": "Arboga",
+        "code": "1984"
+      },
+      {
+        "name": "Smedjebacken",
+        "code": "2061"
+      }
+    ]
+  },
+  "1904": {
+    "name": "Skinnskatteberg",
+    "code": "1904",
+    "neighbors": [
+      {
+        "name": "Lindesberg",
+        "code": "1885"
+      },
+      {
+        "name": "Surahammar",
+        "code": "1907"
+      },
+      {
+        "name": "Fagersta",
+        "code": "1982"
+      },
+      {
+        "name": "Köping",
+        "code": "1983"
+      },
+      {
+        "name": "Smedjebacken",
+        "code": "2061"
+      }
+    ]
+  },
+  "1907": {
+    "name": "Surahammar",
+    "code": "1907",
+    "neighbors": [
+      {
+        "name": "Skinnskatteberg",
+        "code": "1904"
+      },
+      {
+        "name": "Hallstahammar",
+        "code": "1961"
+      },
+      {
+        "name": "Västerås",
+        "code": "1980"
+      },
+      {
+        "name": "Sala",
+        "code": "1981"
+      },
+      {
+        "name": "Fagersta",
+        "code": "1982"
+      },
+      {
+        "name": "Köping",
+        "code": "1983"
+      }
+    ]
+  },
+  "1960": {
+    "name": "Kungsör",
+    "code": "1960",
+    "neighbors": [
+      {
+        "name": "Eskilstuna",
+        "code": "0484"
+      },
+      {
+        "name": "Köping",
+        "code": "1983"
+      },
+      {
+        "name": "Arboga",
+        "code": "1984"
+      }
+    ]
+  },
+  "1961": {
+    "name": "Hallstahammar",
+    "code": "1961",
+    "neighbors": [
+      {
+        "name": "Surahammar",
+        "code": "1907"
+      },
+      {
+        "name": "Västerås",
+        "code": "1980"
+      },
+      {
+        "name": "Köping",
+        "code": "1983"
+      }
+    ]
+  },
+  "1962": {
+    "name": "Norberg",
+    "code": "1962",
+    "neighbors": [
+      {
+        "name": "Sala",
+        "code": "1981"
+      },
+      {
+        "name": "Fagersta",
+        "code": "1982"
+      },
+      {
+        "name": "Smedjebacken",
+        "code": "2061"
+      },
+      {
+        "name": "Hedemora",
+        "code": "2083"
+      },
+      {
+        "name": "Avesta",
+        "code": "2084"
+      }
+    ]
+  },
+  "1980": {
+    "name": "Västerås",
+    "code": "1980",
+    "neighbors": [
+      {
+        "name": "Enköping",
+        "code": "0381"
+      },
+      {
+        "name": "Surahammar",
+        "code": "1907"
+      },
+      {
+        "name": "Hallstahammar",
+        "code": "1961"
+      },
+      {
+        "name": "Sala",
+        "code": "1981"
+      },
+      {
+        "name": "Köping",
+        "code": "1983"
+      }
+    ]
+  },
+  "1981": {
+    "name": "Sala",
+    "code": "1981",
+    "neighbors": [
+      {
+        "name": "Heby",
+        "code": "0331"
+      },
+      {
+        "name": "Enköping",
+        "code": "0381"
+      },
+      {
+        "name": "Surahammar",
+        "code": "1907"
+      },
+      {
+        "name": "Norberg",
+        "code": "1962"
+      },
+      {
+        "name": "Västerås",
+        "code": "1980"
+      },
+      {
+        "name": "Fagersta",
+        "code": "1982"
+      },
+      {
+        "name": "Avesta",
+        "code": "2084"
+      },
+      {
+        "name": "Sandviken",
+        "code": "2181"
+      }
+    ]
+  },
+  "1982": {
+    "name": "Fagersta",
+    "code": "1982",
+    "neighbors": [
+      {
+        "name": "Skinnskatteberg",
+        "code": "1904"
+      },
+      {
+        "name": "Surahammar",
+        "code": "1907"
+      },
+      {
+        "name": "Norberg",
+        "code": "1962"
+      },
+      {
+        "name": "Sala",
+        "code": "1981"
+      },
+      {
+        "name": "Smedjebacken",
+        "code": "2061"
+      }
+    ]
+  },
+  "1983": {
+    "name": "Köping",
+    "code": "1983",
+    "neighbors": [
+      {
+        "name": "Lindesberg",
+        "code": "1885"
+      },
+      {
+        "name": "Skinnskatteberg",
+        "code": "1904"
+      },
+      {
+        "name": "Surahammar",
+        "code": "1907"
+      },
+      {
+        "name": "Kungsör",
+        "code": "1960"
+      },
+      {
+        "name": "Hallstahammar",
+        "code": "1961"
+      },
+      {
+        "name": "Västerås",
+        "code": "1980"
+      },
+      {
+        "name": "Arboga",
+        "code": "1984"
+      }
+    ]
+  },
+  "1984": {
+    "name": "Arboga",
+    "code": "1984",
+    "neighbors": [
+      {
+        "name": "Eskilstuna",
+        "code": "0484"
+      },
+      {
+        "name": "Örebro",
+        "code": "1880"
+      },
+      {
+        "name": "Lindesberg",
+        "code": "1885"
+      },
+      {
+        "name": "Kungsör",
+        "code": "1960"
+      },
+      {
+        "name": "Köping",
+        "code": "1983"
+      }
+    ]
+  },
+  "2021": {
+    "name": "Vansbro",
+    "code": "2021",
+    "neighbors": [
+      {
+        "name": "Filipstad",
+        "code": "1782"
+      },
+      {
+        "name": "Malung-Sälen",
+        "code": "2023"
+      },
+      {
+        "name": "Gagnef",
+        "code": "2026"
+      },
+      {
+        "name": "Leksand",
+        "code": "2029"
+      },
+      {
+        "name": "Mora",
+        "code": "2062"
+      },
+      {
+        "name": "Ludvika",
+        "code": "2085"
+      }
+    ]
+  },
+  "2023": {
+    "name": "Malung-Sälen",
+    "code": "2023",
+    "neighbors": [
+      {
+        "name": "Torsby",
+        "code": "1737"
+      },
+      {
+        "name": "Filipstad",
+        "code": "1782"
+      },
+      {
+        "name": "Hagfors",
+        "code": "1783"
+      },
+      {
+        "name": "Vansbro",
+        "code": "2021"
+      },
+      {
+        "name": "Älvdalen",
+        "code": "2039"
+      },
+      {
+        "name": "Mora",
+        "code": "2062"
+      }
+    ]
+  },
+  "2026": {
+    "name": "Gagnef",
+    "code": "2026",
+    "neighbors": [
+      {
+        "name": "Vansbro",
+        "code": "2021"
+      },
+      {
+        "name": "Leksand",
+        "code": "2029"
+      },
+      {
+        "name": "Falun",
+        "code": "2080"
+      },
+      {
+        "name": "Borlänge",
+        "code": "2081"
+      },
+      {
+        "name": "Ludvika",
+        "code": "2085"
+      }
+    ]
+  },
+  "2029": {
+    "name": "Leksand",
+    "code": "2029",
+    "neighbors": [
+      {
+        "name": "Vansbro",
+        "code": "2021"
+      },
+      {
+        "name": "Gagnef",
+        "code": "2026"
+      },
+      {
+        "name": "Rättvik",
+        "code": "2031"
+      },
+      {
+        "name": "Mora",
+        "code": "2062"
+      },
+      {
+        "name": "Falun",
+        "code": "2080"
+      },
+      {
+        "name": "Borlänge",
+        "code": "2081"
+      }
+    ]
+  },
+  "2031": {
+    "name": "Rättvik",
+    "code": "2031",
+    "neighbors": [
+      {
+        "name": "Leksand",
+        "code": "2029"
+      },
+      {
+        "name": "Orsa",
+        "code": "2034"
+      },
+      {
+        "name": "Mora",
+        "code": "2062"
+      },
+      {
+        "name": "Falun",
+        "code": "2080"
+      },
+      {
+        "name": "Ovanåker",
+        "code": "2121"
+      },
+      {
+        "name": "Ljusdal",
+        "code": "2161"
+      }
+    ]
+  },
+  "2034": {
+    "name": "Orsa",
+    "code": "2034",
+    "neighbors": [
+      {
+        "name": "Rättvik",
+        "code": "2031"
+      },
+      {
+        "name": "Mora",
+        "code": "2062"
+      },
+      {
+        "name": "Ljusdal",
+        "code": "2161"
+      },
+      {
+        "name": "Härjedalen",
+        "code": "2361"
+      }
+    ]
+  },
+  "2039": {
+    "name": "Älvdalen",
+    "code": "2039",
+    "neighbors": [
+      {
+        "name": "Malung-Sälen",
+        "code": "2023"
+      },
+      {
+        "name": "Mora",
+        "code": "2062"
+      },
+      {
+        "name": "Härjedalen",
+        "code": "2361"
+      }
+    ]
+  },
+  "2061": {
+    "name": "Smedjebacken",
+    "code": "2061",
+    "neighbors": [
+      {
+        "name": "Ljusnarsberg",
+        "code": "1864"
+      },
+      {
+        "name": "Lindesberg",
+        "code": "1885"
+      },
+      {
+        "name": "Skinnskatteberg",
+        "code": "1904"
+      },
+      {
+        "name": "Norberg",
+        "code": "1962"
+      },
+      {
+        "name": "Fagersta",
+        "code": "1982"
+      },
+      {
+        "name": "Säter",
+        "code": "2082"
+      },
+      {
+        "name": "Hedemora",
+        "code": "2083"
+      },
+      {
+        "name": "Ludvika",
+        "code": "2085"
+      }
+    ]
+  },
+  "2062": {
+    "name": "Mora",
+    "code": "2062",
+    "neighbors": [
+      {
+        "name": "Vansbro",
+        "code": "2021"
+      },
+      {
+        "name": "Malung-Sälen",
+        "code": "2023"
+      },
+      {
+        "name": "Leksand",
+        "code": "2029"
+      },
+      {
+        "name": "Rättvik",
+        "code": "2031"
+      },
+      {
+        "name": "Orsa",
+        "code": "2034"
+      },
+      {
+        "name": "Älvdalen",
+        "code": "2039"
+      },
+      {
+        "name": "Härjedalen",
+        "code": "2361"
+      }
+    ]
+  },
+  "2080": {
+    "name": "Falun",
+    "code": "2080",
+    "neighbors": [
+      {
+        "name": "Gagnef",
+        "code": "2026"
+      },
+      {
+        "name": "Leksand",
+        "code": "2029"
+      },
+      {
+        "name": "Rättvik",
+        "code": "2031"
+      },
+      {
+        "name": "Borlänge",
+        "code": "2081"
+      },
+      {
+        "name": "Säter",
+        "code": "2082"
+      },
+      {
+        "name": "Hedemora",
+        "code": "2083"
+      },
+      {
+        "name": "Ockelbo",
+        "code": "2101"
+      },
+      {
+        "name": "Hofors",
+        "code": "2104"
+      },
+      {
+        "name": "Ovanåker",
+        "code": "2121"
+      },
+      {
+        "name": "Sandviken",
+        "code": "2181"
+      },
+      {
+        "name": "Bollnäs",
+        "code": "2183"
+      }
+    ]
+  },
+  "2081": {
+    "name": "Borlänge",
+    "code": "2081",
+    "neighbors": [
+      {
+        "name": "Gagnef",
+        "code": "2026"
+      },
+      {
+        "name": "Leksand",
+        "code": "2029"
+      },
+      {
+        "name": "Falun",
+        "code": "2080"
+      },
+      {
+        "name": "Säter",
+        "code": "2082"
+      },
+      {
+        "name": "Ludvika",
+        "code": "2085"
+      }
+    ]
+  },
+  "2082": {
+    "name": "Säter",
+    "code": "2082",
+    "neighbors": [
+      {
+        "name": "Smedjebacken",
+        "code": "2061"
+      },
+      {
+        "name": "Falun",
+        "code": "2080"
+      },
+      {
+        "name": "Borlänge",
+        "code": "2081"
+      },
+      {
+        "name": "Hedemora",
+        "code": "2083"
+      },
+      {
+        "name": "Ludvika",
+        "code": "2085"
+      },
+      {
+        "name": "Hofors",
+        "code": "2104"
+      }
+    ]
+  },
+  "2083": {
+    "name": "Hedemora",
+    "code": "2083",
+    "neighbors": [
+      {
+        "name": "Norberg",
+        "code": "1962"
+      },
+      {
+        "name": "Smedjebacken",
+        "code": "2061"
+      },
+      {
+        "name": "Falun",
+        "code": "2080"
+      },
+      {
+        "name": "Säter",
+        "code": "2082"
+      },
+      {
+        "name": "Avesta",
+        "code": "2084"
+      },
+      {
+        "name": "Hofors",
+        "code": "2104"
+      }
+    ]
+  },
+  "2084": {
+    "name": "Avesta",
+    "code": "2084",
+    "neighbors": [
+      {
+        "name": "Heby",
+        "code": "0331"
+      },
+      {
+        "name": "Norberg",
+        "code": "1962"
+      },
+      {
+        "name": "Sala",
+        "code": "1981"
+      },
+      {
+        "name": "Hedemora",
+        "code": "2083"
+      },
+      {
+        "name": "Hofors",
+        "code": "2104"
+      },
+      {
+        "name": "Sandviken",
+        "code": "2181"
+      }
+    ]
+  },
+  "2085": {
+    "name": "Ludvika",
+    "code": "2085",
+    "neighbors": [
+      {
+        "name": "Filipstad",
+        "code": "1782"
+      },
+      {
+        "name": "Hällefors",
+        "code": "1863"
+      },
+      {
+        "name": "Ljusnarsberg",
+        "code": "1864"
+      },
+      {
+        "name": "Vansbro",
+        "code": "2021"
+      },
+      {
+        "name": "Gagnef",
+        "code": "2026"
+      },
+      {
+        "name": "Smedjebacken",
+        "code": "2061"
+      },
+      {
+        "name": "Borlänge",
+        "code": "2081"
+      },
+      {
+        "name": "Säter",
+        "code": "2082"
+      }
+    ]
+  },
+  "2101": {
+    "name": "Ockelbo",
+    "code": "2101",
+    "neighbors": [
+      {
+        "name": "Falun",
+        "code": "2080"
+      },
+      {
+        "name": "Gävle",
+        "code": "2180"
+      },
+      {
+        "name": "Sandviken",
+        "code": "2181"
+      },
+      {
+        "name": "Söderhamn",
+        "code": "2182"
+      },
+      {
+        "name": "Bollnäs",
+        "code": "2183"
+      }
+    ]
+  },
+  "2104": {
+    "name": "Hofors",
+    "code": "2104",
+    "neighbors": [
+      {
+        "name": "Falun",
+        "code": "2080"
+      },
+      {
+        "name": "Säter",
+        "code": "2082"
+      },
+      {
+        "name": "Hedemora",
+        "code": "2083"
+      },
+      {
+        "name": "Avesta",
+        "code": "2084"
+      },
+      {
+        "name": "Sandviken",
+        "code": "2181"
+      }
+    ]
+  },
+  "2121": {
+    "name": "Ovanåker",
+    "code": "2121",
+    "neighbors": [
+      {
+        "name": "Rättvik",
+        "code": "2031"
+      },
+      {
+        "name": "Falun",
+        "code": "2080"
+      },
+      {
+        "name": "Ljusdal",
+        "code": "2161"
+      },
+      {
+        "name": "Bollnäs",
+        "code": "2183"
+      }
+    ]
+  },
+  "2132": {
+    "name": "Nordanstig",
+    "code": "2132",
+    "neighbors": [
+      {
+        "name": "Hudiksvall",
+        "code": "2184"
+      },
+      {
+        "name": "Ånge",
+        "code": "2260"
+      },
+      {
+        "name": "Sundsvall",
+        "code": "2281"
+      }
+    ]
+  },
+  "2161": {
+    "name": "Ljusdal",
+    "code": "2161",
+    "neighbors": [
+      {
+        "name": "Rättvik",
+        "code": "2031"
+      },
+      {
+        "name": "Orsa",
+        "code": "2034"
+      },
+      {
+        "name": "Ovanåker",
+        "code": "2121"
+      },
+      {
+        "name": "Bollnäs",
+        "code": "2183"
+      },
+      {
+        "name": "Hudiksvall",
+        "code": "2184"
+      },
+      {
+        "name": "Ånge",
+        "code": "2260"
+      },
+      {
+        "name": "Härjedalen",
+        "code": "2361"
+      }
+    ]
+  },
+  "2180": {
+    "name": "Gävle",
+    "code": "2180",
+    "neighbors": [
+      {
+        "name": "Älvkarleby",
+        "code": "0319"
+      },
+      {
+        "name": "Heby",
+        "code": "0331"
+      },
+      {
+        "name": "Tierp",
+        "code": "0360"
+      },
+      {
+        "name": "Ockelbo",
+        "code": "2101"
+      },
+      {
+        "name": "Sandviken",
+        "code": "2181"
+      },
+      {
+        "name": "Söderhamn",
+        "code": "2182"
+      }
+    ]
+  },
+  "2181": {
+    "name": "Sandviken",
+    "code": "2181",
+    "neighbors": [
+      {
+        "name": "Heby",
+        "code": "0331"
+      },
+      {
+        "name": "Sala",
+        "code": "1981"
+      },
+      {
+        "name": "Falun",
+        "code": "2080"
+      },
+      {
+        "name": "Avesta",
+        "code": "2084"
+      },
+      {
+        "name": "Ockelbo",
+        "code": "2101"
+      },
+      {
+        "name": "Hofors",
+        "code": "2104"
+      },
+      {
+        "name": "Gävle",
+        "code": "2180"
+      }
+    ]
+  },
+  "2182": {
+    "name": "Söderhamn",
+    "code": "2182",
+    "neighbors": [
+      {
+        "name": "Ockelbo",
+        "code": "2101"
+      },
+      {
+        "name": "Gävle",
+        "code": "2180"
+      },
+      {
+        "name": "Bollnäs",
+        "code": "2183"
+      },
+      {
+        "name": "Hudiksvall",
+        "code": "2184"
+      }
+    ]
+  },
+  "2183": {
+    "name": "Bollnäs",
+    "code": "2183",
+    "neighbors": [
+      {
+        "name": "Falun",
+        "code": "2080"
+      },
+      {
+        "name": "Ockelbo",
+        "code": "2101"
+      },
+      {
+        "name": "Ovanåker",
+        "code": "2121"
+      },
+      {
+        "name": "Ljusdal",
+        "code": "2161"
+      },
+      {
+        "name": "Söderhamn",
+        "code": "2182"
+      },
+      {
+        "name": "Hudiksvall",
+        "code": "2184"
+      }
+    ]
+  },
+  "2184": {
+    "name": "Hudiksvall",
+    "code": "2184",
+    "neighbors": [
+      {
+        "name": "Nordanstig",
+        "code": "2132"
+      },
+      {
+        "name": "Ljusdal",
+        "code": "2161"
+      },
+      {
+        "name": "Söderhamn",
+        "code": "2182"
+      },
+      {
+        "name": "Bollnäs",
+        "code": "2183"
+      },
+      {
+        "name": "Ånge",
+        "code": "2260"
+      }
+    ]
+  },
+  "2260": {
+    "name": "Ånge",
+    "code": "2260",
+    "neighbors": [
+      {
+        "name": "Nordanstig",
+        "code": "2132"
+      },
+      {
+        "name": "Ljusdal",
+        "code": "2161"
+      },
+      {
+        "name": "Hudiksvall",
+        "code": "2184"
+      },
+      {
+        "name": "Sundsvall",
+        "code": "2281"
+      },
+      {
+        "name": "Bräcke",
+        "code": "2305"
+      },
+      {
+        "name": "Berg",
+        "code": "2326"
+      },
+      {
+        "name": "Härjedalen",
+        "code": "2361"
+      }
+    ]
+  },
+  "2262": {
+    "name": "Timrå",
+    "code": "2262",
+    "neighbors": [
+      {
+        "name": "Härnösand",
+        "code": "2280"
+      },
+      {
+        "name": "Sundsvall",
+        "code": "2281"
+      },
+      {
+        "name": "Sollefteå",
+        "code": "2283"
+      }
+    ]
+  },
+  "2280": {
+    "name": "Härnösand",
+    "code": "2280",
+    "neighbors": [
+      {
+        "name": "Timrå",
+        "code": "2262"
+      },
+      {
+        "name": "Sundsvall",
+        "code": "2281"
+      },
+      {
+        "name": "Kramfors",
+        "code": "2282"
+      },
+      {
+        "name": "Sollefteå",
+        "code": "2283"
+      }
+    ]
+  },
+  "2281": {
+    "name": "Sundsvall",
+    "code": "2281",
+    "neighbors": [
+      {
+        "name": "Nordanstig",
+        "code": "2132"
+      },
+      {
+        "name": "Ånge",
+        "code": "2260"
+      },
+      {
+        "name": "Timrå",
+        "code": "2262"
+      },
+      {
+        "name": "Härnösand",
+        "code": "2280"
+      },
+      {
+        "name": "Sollefteå",
+        "code": "2283"
+      },
+      {
+        "name": "Ragunda",
+        "code": "2303"
+      },
+      {
+        "name": "Bräcke",
+        "code": "2305"
+      }
+    ]
+  },
+  "2282": {
+    "name": "Kramfors",
+    "code": "2282",
+    "neighbors": [
+      {
+        "name": "Härnösand",
+        "code": "2280"
+      },
+      {
+        "name": "Sollefteå",
+        "code": "2283"
+      },
+      {
+        "name": "Örnsköldsvik",
+        "code": "2284"
+      }
+    ]
+  },
+  "2283": {
+    "name": "Sollefteå",
+    "code": "2283",
+    "neighbors": [
+      {
+        "name": "Timrå",
+        "code": "2262"
+      },
+      {
+        "name": "Härnösand",
+        "code": "2280"
+      },
+      {
+        "name": "Sundsvall",
+        "code": "2281"
+      },
+      {
+        "name": "Kramfors",
+        "code": "2282"
+      },
+      {
+        "name": "Örnsköldsvik",
+        "code": "2284"
+      },
+      {
+        "name": "Ragunda",
+        "code": "2303"
+      },
+      {
+        "name": "Strömsund",
+        "code": "2313"
+      },
+      {
+        "name": "Dorotea",
+        "code": "2425"
+      },
+      {
+        "name": "Åsele",
+        "code": "2463"
+      }
+    ]
+  },
+  "2284": {
+    "name": "Örnsköldsvik",
+    "code": "2284",
+    "neighbors": [
+      {
+        "name": "Kramfors",
+        "code": "2282"
+      },
+      {
+        "name": "Sollefteå",
+        "code": "2283"
+      },
+      {
+        "name": "Nordmaling",
+        "code": "2401"
+      },
+      {
+        "name": "Bjurholm",
+        "code": "2403"
+      },
+      {
+        "name": "Åsele",
+        "code": "2463"
+      }
+    ]
+  },
+  "2303": {
+    "name": "Ragunda",
+    "code": "2303",
+    "neighbors": [
+      {
+        "name": "Sundsvall",
+        "code": "2281"
+      },
+      {
+        "name": "Sollefteå",
+        "code": "2283"
+      },
+      {
+        "name": "Bräcke",
+        "code": "2305"
+      },
+      {
+        "name": "Strömsund",
+        "code": "2313"
+      },
+      {
+        "name": "Östersund",
+        "code": "2380"
+      }
+    ]
+  },
+  "2305": {
+    "name": "Bräcke",
+    "code": "2305",
+    "neighbors": [
+      {
+        "name": "Ånge",
+        "code": "2260"
+      },
+      {
+        "name": "Sundsvall",
+        "code": "2281"
+      },
+      {
+        "name": "Ragunda",
+        "code": "2303"
+      },
+      {
+        "name": "Berg",
+        "code": "2326"
+      },
+      {
+        "name": "Östersund",
+        "code": "2380"
+      }
+    ]
+  },
+  "2309": {
+    "name": "Krokom",
+    "code": "2309",
+    "neighbors": [
+      {
+        "name": "Strömsund",
+        "code": "2313"
+      },
+      {
+        "name": "Åre",
+        "code": "2321"
+      },
+      {
+        "name": "Östersund",
+        "code": "2380"
+      }
+    ]
+  },
+  "2313": {
+    "name": "Strömsund",
+    "code": "2313",
+    "neighbors": [
+      {
+        "name": "Sollefteå",
+        "code": "2283"
+      },
+      {
+        "name": "Ragunda",
+        "code": "2303"
+      },
+      {
+        "name": "Krokom",
+        "code": "2309"
+      },
+      {
+        "name": "Östersund",
+        "code": "2380"
+      },
+      {
+        "name": "Dorotea",
+        "code": "2425"
+      },
+      {
+        "name": "Vilhelmina",
+        "code": "2462"
+      }
+    ]
+  },
+  "2321": {
+    "name": "Åre",
+    "code": "2321",
+    "neighbors": [
+      {
+        "name": "Krokom",
+        "code": "2309"
+      },
+      {
+        "name": "Berg",
+        "code": "2326"
+      }
+    ]
+  },
+  "2326": {
+    "name": "Berg",
+    "code": "2326",
+    "neighbors": [
+      {
+        "name": "Ånge",
+        "code": "2260"
+      },
+      {
+        "name": "Bräcke",
+        "code": "2305"
+      },
+      {
+        "name": "Åre",
+        "code": "2321"
+      },
+      {
+        "name": "Härjedalen",
+        "code": "2361"
+      },
+      {
+        "name": "Östersund",
+        "code": "2380"
+      }
+    ]
+  },
+  "2361": {
+    "name": "Härjedalen",
+    "code": "2361",
+    "neighbors": [
+      {
+        "name": "Orsa",
+        "code": "2034"
+      },
+      {
+        "name": "Älvdalen",
+        "code": "2039"
+      },
+      {
+        "name": "Mora",
+        "code": "2062"
+      },
+      {
+        "name": "Ljusdal",
+        "code": "2161"
+      },
+      {
+        "name": "Ånge",
+        "code": "2260"
+      },
+      {
+        "name": "Berg",
+        "code": "2326"
+      }
+    ]
+  },
+  "2380": {
+    "name": "Östersund",
+    "code": "2380",
+    "neighbors": [
+      {
+        "name": "Ragunda",
+        "code": "2303"
+      },
+      {
+        "name": "Bräcke",
+        "code": "2305"
+      },
+      {
+        "name": "Krokom",
+        "code": "2309"
+      },
+      {
+        "name": "Strömsund",
+        "code": "2313"
+      },
+      {
+        "name": "Berg",
+        "code": "2326"
+      }
+    ]
+  },
+  "2401": {
+    "name": "Nordmaling",
+    "code": "2401",
+    "neighbors": [
+      {
+        "name": "Örnsköldsvik",
+        "code": "2284"
+      },
+      {
+        "name": "Bjurholm",
+        "code": "2403"
+      },
+      {
+        "name": "Vännäs",
+        "code": "2460"
+      },
+      {
+        "name": "Umeå",
+        "code": "2480"
+      }
+    ]
+  },
+  "2403": {
+    "name": "Bjurholm",
+    "code": "2403",
+    "neighbors": [
+      {
+        "name": "Örnsköldsvik",
+        "code": "2284"
+      },
+      {
+        "name": "Nordmaling",
+        "code": "2401"
+      },
+      {
+        "name": "Vindeln",
+        "code": "2404"
+      },
+      {
+        "name": "Vännäs",
+        "code": "2460"
+      },
+      {
+        "name": "Åsele",
+        "code": "2463"
+      },
+      {
+        "name": "Lycksele",
+        "code": "2481"
+      }
+    ]
+  },
+  "2404": {
+    "name": "Vindeln",
+    "code": "2404",
+    "neighbors": [
+      {
+        "name": "Bjurholm",
+        "code": "2403"
+      },
+      {
+        "name": "Norsjö",
+        "code": "2417"
+      },
+      {
+        "name": "Vännäs",
+        "code": "2460"
+      },
+      {
+        "name": "Umeå",
+        "code": "2480"
+      },
+      {
+        "name": "Lycksele",
+        "code": "2481"
+      },
+      {
+        "name": "Skellefteå",
+        "code": "2482"
+      }
+    ]
+  },
+  "2409": {
+    "name": "Robertsfors",
+    "code": "2409",
+    "neighbors": [
+      {
+        "name": "Umeå",
+        "code": "2480"
+      },
+      {
+        "name": "Skellefteå",
+        "code": "2482"
+      }
+    ]
+  },
+  "2417": {
+    "name": "Norsjö",
+    "code": "2417",
+    "neighbors": [
+      {
+        "name": "Vindeln",
+        "code": "2404"
+      },
+      {
+        "name": "Malå",
+        "code": "2418"
+      },
+      {
+        "name": "Lycksele",
+        "code": "2481"
+      },
+      {
+        "name": "Skellefteå",
+        "code": "2482"
+      },
+      {
+        "name": "Arvidsjaur",
+        "code": "2505"
+      }
+    ]
+  },
+  "2418": {
+    "name": "Malå",
+    "code": "2418",
+    "neighbors": [
+      {
+        "name": "Norsjö",
+        "code": "2417"
+      },
+      {
+        "name": "Sorsele",
+        "code": "2422"
+      },
+      {
+        "name": "Lycksele",
+        "code": "2481"
+      },
+      {
+        "name": "Arvidsjaur",
+        "code": "2505"
+      }
+    ]
+  },
+  "2421": {
+    "name": "Storuman",
+    "code": "2421",
+    "neighbors": [
+      {
+        "name": "Sorsele",
+        "code": "2422"
+      },
+      {
+        "name": "Vilhelmina",
+        "code": "2462"
+      },
+      {
+        "name": "Lycksele",
+        "code": "2481"
+      }
+    ]
+  },
+  "2422": {
+    "name": "Sorsele",
+    "code": "2422",
+    "neighbors": [
+      {
+        "name": "Malå",
+        "code": "2418"
+      },
+      {
+        "name": "Storuman",
+        "code": "2421"
+      },
+      {
+        "name": "Lycksele",
+        "code": "2481"
+      },
+      {
+        "name": "Arvidsjaur",
+        "code": "2505"
+      },
+      {
+        "name": "Arjeplog",
+        "code": "2506"
+      }
+    ]
+  },
+  "2425": {
+    "name": "Dorotea",
+    "code": "2425",
+    "neighbors": [
+      {
+        "name": "Sollefteå",
+        "code": "2283"
+      },
+      {
+        "name": "Strömsund",
+        "code": "2313"
+      },
+      {
+        "name": "Vilhelmina",
+        "code": "2462"
+      },
+      {
+        "name": "Åsele",
+        "code": "2463"
+      }
+    ]
+  },
+  "2460": {
+    "name": "Vännäs",
+    "code": "2460",
+    "neighbors": [
+      {
+        "name": "Nordmaling",
+        "code": "2401"
+      },
+      {
+        "name": "Bjurholm",
+        "code": "2403"
+      },
+      {
+        "name": "Vindeln",
+        "code": "2404"
+      },
+      {
+        "name": "Umeå",
+        "code": "2480"
+      }
+    ]
+  },
+  "2462": {
+    "name": "Vilhelmina",
+    "code": "2462",
+    "neighbors": [
+      {
+        "name": "Strömsund",
+        "code": "2313"
+      },
+      {
+        "name": "Storuman",
+        "code": "2421"
+      },
+      {
+        "name": "Dorotea",
+        "code": "2425"
+      },
+      {
+        "name": "Åsele",
+        "code": "2463"
+      },
+      {
+        "name": "Lycksele",
+        "code": "2481"
+      }
+    ]
+  },
+  "2463": {
+    "name": "Åsele",
+    "code": "2463",
+    "neighbors": [
+      {
+        "name": "Sollefteå",
+        "code": "2283"
+      },
+      {
+        "name": "Örnsköldsvik",
+        "code": "2284"
+      },
+      {
+        "name": "Bjurholm",
+        "code": "2403"
+      },
+      {
+        "name": "Dorotea",
+        "code": "2425"
+      },
+      {
+        "name": "Vilhelmina",
+        "code": "2462"
+      },
+      {
+        "name": "Lycksele",
+        "code": "2481"
+      }
+    ]
+  },
+  "2480": {
+    "name": "Umeå",
+    "code": "2480",
+    "neighbors": [
+      {
+        "name": "Nordmaling",
+        "code": "2401"
+      },
+      {
+        "name": "Vindeln",
+        "code": "2404"
+      },
+      {
+        "name": "Robertsfors",
+        "code": "2409"
+      },
+      {
+        "name": "Vännäs",
+        "code": "2460"
+      },
+      {
+        "name": "Skellefteå",
+        "code": "2482"
+      }
+    ]
+  },
+  "2481": {
+    "name": "Lycksele",
+    "code": "2481",
+    "neighbors": [
+      {
+        "name": "Bjurholm",
+        "code": "2403"
+      },
+      {
+        "name": "Vindeln",
+        "code": "2404"
+      },
+      {
+        "name": "Norsjö",
+        "code": "2417"
+      },
+      {
+        "name": "Malå",
+        "code": "2418"
+      },
+      {
+        "name": "Storuman",
+        "code": "2421"
+      },
+      {
+        "name": "Sorsele",
+        "code": "2422"
+      },
+      {
+        "name": "Vilhelmina",
+        "code": "2462"
+      },
+      {
+        "name": "Åsele",
+        "code": "2463"
+      }
+    ]
+  },
+  "2482": {
+    "name": "Skellefteå",
+    "code": "2482",
+    "neighbors": [
+      {
+        "name": "Vindeln",
+        "code": "2404"
+      },
+      {
+        "name": "Robertsfors",
+        "code": "2409"
+      },
+      {
+        "name": "Norsjö",
+        "code": "2417"
+      },
+      {
+        "name": "Umeå",
+        "code": "2480"
+      },
+      {
+        "name": "Arvidsjaur",
+        "code": "2505"
+      },
+      {
+        "name": "Piteå",
+        "code": "2581"
+      }
+    ]
+  },
+  "2505": {
+    "name": "Arvidsjaur",
+    "code": "2505",
+    "neighbors": [
+      {
+        "name": "Norsjö",
+        "code": "2417"
+      },
+      {
+        "name": "Malå",
+        "code": "2418"
+      },
+      {
+        "name": "Sorsele",
+        "code": "2422"
+      },
+      {
+        "name": "Skellefteå",
+        "code": "2482"
+      },
+      {
+        "name": "Arjeplog",
+        "code": "2506"
+      },
+      {
+        "name": "Jokkmokk",
+        "code": "2510"
+      },
+      {
+        "name": "Älvsbyn",
+        "code": "2560"
+      },
+      {
+        "name": "Piteå",
+        "code": "2581"
+      }
+    ]
+  },
+  "2506": {
+    "name": "Arjeplog",
+    "code": "2506",
+    "neighbors": [
+      {
+        "name": "Sorsele",
+        "code": "2422"
+      },
+      {
+        "name": "Arvidsjaur",
+        "code": "2505"
+      },
+      {
+        "name": "Jokkmokk",
+        "code": "2510"
+      }
+    ]
+  },
+  "2510": {
+    "name": "Jokkmokk",
+    "code": "2510",
+    "neighbors": [
+      {
+        "name": "Arvidsjaur",
+        "code": "2505"
+      },
+      {
+        "name": "Arjeplog",
+        "code": "2506"
+      },
+      {
+        "name": "Gällivare",
+        "code": "2523"
+      },
+      {
+        "name": "Älvsbyn",
+        "code": "2560"
+      },
+      {
+        "name": "Boden",
+        "code": "2582"
+      }
+    ]
+  },
+  "2513": {
+    "name": "Överkalix",
+    "code": "2513",
+    "neighbors": [
+      {
+        "name": "Kalix",
+        "code": "2514"
+      },
+      {
+        "name": "Övertorneå",
+        "code": "2518"
+      },
+      {
+        "name": "Pajala",
+        "code": "2521"
+      },
+      {
+        "name": "Gällivare",
+        "code": "2523"
+      },
+      {
+        "name": "Luleå",
+        "code": "2580"
+      },
+      {
+        "name": "Boden",
+        "code": "2582"
+      }
+    ]
+  },
+  "2514": {
+    "name": "Kalix",
+    "code": "2514",
+    "neighbors": [
+      {
+        "name": "Överkalix",
+        "code": "2513"
+      },
+      {
+        "name": "Övertorneå",
+        "code": "2518"
+      },
+      {
+        "name": "Luleå",
+        "code": "2580"
+      },
+      {
+        "name": "Haparanda",
+        "code": "2583"
+      }
+    ]
+  },
+  "2518": {
+    "name": "Övertorneå",
+    "code": "2518",
+    "neighbors": [
+      {
+        "name": "Överkalix",
+        "code": "2513"
+      },
+      {
+        "name": "Kalix",
+        "code": "2514"
+      },
+      {
+        "name": "Pajala",
+        "code": "2521"
+      },
+      {
+        "name": "Haparanda",
+        "code": "2583"
+      }
+    ]
+  },
+  "2521": {
+    "name": "Pajala",
+    "code": "2521",
+    "neighbors": [
+      {
+        "name": "Överkalix",
+        "code": "2513"
+      },
+      {
+        "name": "Övertorneå",
+        "code": "2518"
+      },
+      {
+        "name": "Gällivare",
+        "code": "2523"
+      },
+      {
+        "name": "Kiruna",
+        "code": "2584"
+      }
+    ]
+  },
+  "2523": {
+    "name": "Gällivare",
+    "code": "2523",
+    "neighbors": [
+      {
+        "name": "Jokkmokk",
+        "code": "2510"
+      },
+      {
+        "name": "Överkalix",
+        "code": "2513"
+      },
+      {
+        "name": "Pajala",
+        "code": "2521"
+      },
+      {
+        "name": "Boden",
+        "code": "2582"
+      },
+      {
+        "name": "Kiruna",
+        "code": "2584"
+      }
+    ]
+  },
+  "2560": {
+    "name": "Älvsbyn",
+    "code": "2560",
+    "neighbors": [
+      {
+        "name": "Arvidsjaur",
+        "code": "2505"
+      },
+      {
+        "name": "Jokkmokk",
+        "code": "2510"
+      },
+      {
+        "name": "Luleå",
+        "code": "2580"
+      },
+      {
+        "name": "Piteå",
+        "code": "2581"
+      },
+      {
+        "name": "Boden",
+        "code": "2582"
+      }
+    ]
+  },
+  "2580": {
+    "name": "Luleå",
+    "code": "2580",
+    "neighbors": [
+      {
+        "name": "Överkalix",
+        "code": "2513"
+      },
+      {
+        "name": "Kalix",
+        "code": "2514"
+      },
+      {
+        "name": "Älvsbyn",
+        "code": "2560"
+      },
+      {
+        "name": "Piteå",
+        "code": "2581"
+      },
+      {
+        "name": "Boden",
+        "code": "2582"
+      }
+    ]
+  },
+  "2581": {
+    "name": "Piteå",
+    "code": "2581",
+    "neighbors": [
+      {
+        "name": "Skellefteå",
+        "code": "2482"
+      },
+      {
+        "name": "Arvidsjaur",
+        "code": "2505"
+      },
+      {
+        "name": "Älvsbyn",
+        "code": "2560"
+      },
+      {
+        "name": "Luleå",
+        "code": "2580"
+      },
+      {
+        "name": "Boden",
+        "code": "2582"
+      }
+    ]
+  },
+  "2582": {
+    "name": "Boden",
+    "code": "2582",
+    "neighbors": [
+      {
+        "name": "Jokkmokk",
+        "code": "2510"
+      },
+      {
+        "name": "Överkalix",
+        "code": "2513"
+      },
+      {
+        "name": "Gällivare",
+        "code": "2523"
+      },
+      {
+        "name": "Älvsbyn",
+        "code": "2560"
+      },
+      {
+        "name": "Luleå",
+        "code": "2580"
+      },
+      {
+        "name": "Piteå",
+        "code": "2581"
+      }
+    ]
+  },
+  "2583": {
+    "name": "Haparanda",
+    "code": "2583",
+    "neighbors": [
+      {
+        "name": "Kalix",
+        "code": "2514"
+      },
+      {
+        "name": "Övertorneå",
+        "code": "2518"
+      }
+    ]
+  },
+  "2584": {
+    "name": "Kiruna",
+    "code": "2584",
+    "neighbors": [
+      {
+        "name": "Pajala",
+        "code": "2521"
+      },
+      {
+        "name": "Gällivare",
+        "code": "2523"
+      }
+    ]
+  },
+  "0114": {
+    "name": "Upplands Väsby",
+    "code": "0114",
+    "neighbors": [
+      {
+        "name": "Vallentuna",
+        "code": "0115"
+      },
+      {
+        "name": "Järfälla",
+        "code": "0123"
+      },
+      {
+        "name": "Upplands-Bro",
+        "code": "0139"
+      },
+      {
+        "name": "Täby",
+        "code": "0160"
+      },
+      {
+        "name": "Sollentuna",
+        "code": "0163"
+      },
+      {
+        "name": "Sigtuna",
+        "code": "0191"
+      }
+    ]
+  },
+  "0115": {
+    "name": "Vallentuna",
+    "code": "0115",
+    "neighbors": [
+      {
+        "name": "Upplands Väsby",
+        "code": "0114"
+      },
+      {
+        "name": "Österåker",
+        "code": "0117"
+      },
+      {
+        "name": "Täby",
+        "code": "0160"
+      },
+      {
+        "name": "Norrtälje",
+        "code": "0188"
+      },
+      {
+        "name": "Sigtuna",
+        "code": "0191"
+      }
+    ]
+  },
+  "0117": {
+    "name": "Österåker",
+    "code": "0117",
+    "neighbors": [
+      {
+        "name": "Vallentuna",
+        "code": "0115"
+      },
+      {
+        "name": "Täby",
+        "code": "0160"
+      },
+      {
+        "name": "Vaxholm",
+        "code": "0187"
+      },
+      {
+        "name": "Norrtälje",
+        "code": "0188"
+      }
+    ]
+  },
+  "0120": {
+    "name": "Värmdö",
+    "code": "0120",
+    "neighbors": [
+      {
+        "name": "Nacka",
+        "code": "0182"
+      }
+    ]
+  },
+  "0123": {
+    "name": "Järfälla",
+    "code": "0123",
+    "neighbors": [
+      {
+        "name": "Upplands Väsby",
+        "code": "0114"
+      },
+      {
+        "name": "Upplands-Bro",
+        "code": "0139"
+      },
+      {
+        "name": "Sollentuna",
+        "code": "0163"
+      },
+      {
+        "name": "Stockholm",
+        "code": "0180"
+      }
+    ]
+  },
+  "0125": {
+    "name": "Ekerö",
+    "code": "0125",
+    "neighbors": []
+  },
+  "0126": {
+    "name": "Huddinge",
+    "code": "0126",
+    "neighbors": [
+      {
+        "name": "Botkyrka",
+        "code": "0127"
+      },
+      {
+        "name": "Haninge",
+        "code": "0136"
+      },
+      {
+        "name": "Tyresö",
+        "code": "0138"
+      },
+      {
+        "name": "Stockholm",
+        "code": "0180"
+      }
+    ]
+  },
+  "0127": {
+    "name": "Botkyrka",
+    "code": "0127",
+    "neighbors": [
+      {
+        "name": "Huddinge",
+        "code": "0126"
+      },
+      {
+        "name": "Salem",
+        "code": "0128"
+      },
+      {
+        "name": "Haninge",
+        "code": "0136"
+      },
+      {
+        "name": "Södertälje",
+        "code": "0181"
+      },
+      {
+        "name": "Nynäshamn",
+        "code": "0192"
+      }
+    ]
+  },
+  "0128": {
+    "name": "Salem",
+    "code": "0128",
+    "neighbors": [
+      {
+        "name": "Botkyrka",
+        "code": "0127"
+      },
+      {
+        "name": "Södertälje",
+        "code": "0181"
+      }
+    ]
+  },
+  "0136": {
+    "name": "Haninge",
+    "code": "0136",
+    "neighbors": [
+      {
+        "name": "Huddinge",
+        "code": "0126"
+      },
+      {
+        "name": "Botkyrka",
+        "code": "0127"
+      },
+      {
+        "name": "Tyresö",
+        "code": "0138"
+      },
+      {
+        "name": "Nynäshamn",
+        "code": "0192"
+      }
+    ]
+  },
+  "0138": {
+    "name": "Tyresö",
+    "code": "0138",
+    "neighbors": [
+      {
+        "name": "Huddinge",
+        "code": "0126"
+      },
+      {
+        "name": "Haninge",
+        "code": "0136"
+      },
+      {
+        "name": "Stockholm",
+        "code": "0180"
+      },
+      {
+        "name": "Nacka",
+        "code": "0182"
+      }
+    ]
+  },
+  "0139": {
+    "name": "Upplands-Bro",
+    "code": "0139",
+    "neighbors": [
+      {
+        "name": "Upplands Väsby",
+        "code": "0114"
+      },
+      {
+        "name": "Järfälla",
+        "code": "0123"
+      },
+      {
+        "name": "Sigtuna",
+        "code": "0191"
+      },
+      {
+        "name": "Håbo",
+        "code": "0305"
+      }
+    ]
+  },
+  "0140": {
+    "name": "Nykvarn",
+    "code": "0140",
+    "neighbors": [
+      {
+        "name": "Södertälje",
+        "code": "0181"
+      },
+      {
+        "name": "Gnesta",
+        "code": "0461"
+      },
+      {
+        "name": "Strängnäs",
+        "code": "0486"
+      }
+    ]
+  },
+  "0160": {
+    "name": "Täby",
+    "code": "0160",
+    "neighbors": [
+      {
+        "name": "Upplands Väsby",
+        "code": "0114"
+      },
+      {
+        "name": "Vallentuna",
+        "code": "0115"
+      },
+      {
+        "name": "Österåker",
+        "code": "0117"
+      },
+      {
+        "name": "Danderyd",
+        "code": "0162"
+      },
+      {
+        "name": "Sollentuna",
+        "code": "0163"
+      }
+    ]
+  },
+  "0162": {
+    "name": "Danderyd",
+    "code": "0162",
+    "neighbors": [
+      {
+        "name": "Täby",
+        "code": "0160"
+      },
+      {
+        "name": "Sollentuna",
+        "code": "0163"
+      },
+      {
+        "name": "Stockholm",
+        "code": "0180"
+      },
+      {
+        "name": "Solna",
+        "code": "0184"
+      }
+    ]
+  },
+  "0163": {
+    "name": "Sollentuna",
+    "code": "0163",
+    "neighbors": [
+      {
+        "name": "Upplands Väsby",
+        "code": "0114"
+      },
+      {
+        "name": "Järfälla",
+        "code": "0123"
+      },
+      {
+        "name": "Täby",
+        "code": "0160"
+      },
+      {
+        "name": "Danderyd",
+        "code": "0162"
+      },
+      {
+        "name": "Stockholm",
+        "code": "0180"
+      },
+      {
+        "name": "Sundbyberg",
+        "code": "0183"
+      },
+      {
+        "name": "Solna",
+        "code": "0184"
+      }
+    ]
+  },
+  "0180": {
+    "name": "Stockholm",
+    "code": "0180",
+    "neighbors": [
+      {
+        "name": "Järfälla",
+        "code": "0123"
+      },
+      {
+        "name": "Huddinge",
+        "code": "0126"
+      },
+      {
+        "name": "Tyresö",
+        "code": "0138"
+      },
+      {
+        "name": "Danderyd",
+        "code": "0162"
+      },
+      {
+        "name": "Sollentuna",
+        "code": "0163"
+      },
+      {
+        "name": "Nacka",
+        "code": "0182"
+      },
+      {
+        "name": "Sundbyberg",
+        "code": "0183"
+      },
+      {
+        "name": "Solna",
+        "code": "0184"
+      }
+    ]
+  },
+  "0181": {
+    "name": "Södertälje",
+    "code": "0181",
+    "neighbors": [
+      {
+        "name": "Botkyrka",
+        "code": "0127"
+      },
+      {
+        "name": "Salem",
+        "code": "0128"
+      },
+      {
+        "name": "Nykvarn",
+        "code": "0140"
+      },
+      {
+        "name": "Gnesta",
+        "code": "0461"
+      },
+      {
+        "name": "Trosa",
+        "code": "0488"
+      }
+    ]
+  },
+  "0182": {
+    "name": "Nacka",
+    "code": "0182",
+    "neighbors": [
+      {
+        "name": "Värmdö",
+        "code": "0120"
+      },
+      {
+        "name": "Tyresö",
+        "code": "0138"
+      },
+      {
+        "name": "Stockholm",
+        "code": "0180"
+      }
+    ]
+  },
+  "0183": {
+    "name": "Sundbyberg",
+    "code": "0183",
+    "neighbors": [
+      {
+        "name": "Sollentuna",
+        "code": "0163"
+      },
+      {
+        "name": "Stockholm",
+        "code": "0180"
+      },
+      {
+        "name": "Solna",
+        "code": "0184"
+      }
+    ]
+  },
+  "0184": {
+    "name": "Solna",
+    "code": "0184",
+    "neighbors": [
+      {
+        "name": "Danderyd",
+        "code": "0162"
+      },
+      {
+        "name": "Sollentuna",
+        "code": "0163"
+      },
+      {
+        "name": "Stockholm",
+        "code": "0180"
+      },
+      {
+        "name": "Sundbyberg",
+        "code": "0183"
+      }
+    ]
+  },
+  "0186": {
+    "name": "Lidingö",
+    "code": "0186",
+    "neighbors": []
+  },
+  "0187": {
+    "name": "Vaxholm",
+    "code": "0187",
+    "neighbors": [
+      {
+        "name": "Österåker",
+        "code": "0117"
+      }
+    ]
+  },
+  "0188": {
+    "name": "Norrtälje",
+    "code": "0188",
+    "neighbors": [
+      {
+        "name": "Vallentuna",
+        "code": "0115"
+      },
+      {
+        "name": "Österåker",
+        "code": "0117"
+      },
+      {
+        "name": "Sigtuna",
+        "code": "0191"
+      },
+      {
+        "name": "Knivsta",
+        "code": "0330"
+      },
+      {
+        "name": "Uppsala",
+        "code": "0380"
+      },
+      {
+        "name": "Östhammar",
+        "code": "0382"
+      }
+    ]
+  },
+  "0191": {
+    "name": "Sigtuna",
+    "code": "0191",
+    "neighbors": [
+      {
+        "name": "Upplands Väsby",
+        "code": "0114"
+      },
+      {
+        "name": "Vallentuna",
+        "code": "0115"
+      },
+      {
+        "name": "Upplands-Bro",
+        "code": "0139"
+      },
+      {
+        "name": "Norrtälje",
+        "code": "0188"
+      },
+      {
+        "name": "Håbo",
+        "code": "0305"
+      },
+      {
+        "name": "Knivsta",
+        "code": "0330"
+      },
+      {
+        "name": "Uppsala",
+        "code": "0380"
+      }
+    ]
+  },
+  "0192": {
+    "name": "Nynäshamn",
+    "code": "0192",
+    "neighbors": [
+      {
+        "name": "Botkyrka",
+        "code": "0127"
+      },
+      {
+        "name": "Haninge",
+        "code": "0136"
+      }
+    ]
+  },
+  "0305": {
+    "name": "Håbo",
+    "code": "0305",
+    "neighbors": [
+      {
+        "name": "Upplands-Bro",
+        "code": "0139"
+      },
+      {
+        "name": "Sigtuna",
+        "code": "0191"
+      },
+      {
+        "name": "Knivsta",
+        "code": "0330"
+      },
+      {
+        "name": "Uppsala",
+        "code": "0380"
+      },
+      {
+        "name": "Enköping",
+        "code": "0381"
+      }
+    ]
+  },
+  "0319": {
+    "name": "Älvkarleby",
+    "code": "0319",
+    "neighbors": [
+      {
+        "name": "Tierp",
+        "code": "0360"
+      },
+      {
+        "name": "Gävle",
+        "code": "2180"
+      }
+    ]
+  },
+  "0330": {
+    "name": "Knivsta",
+    "code": "0330",
+    "neighbors": [
+      {
+        "name": "Norrtälje",
+        "code": "0188"
+      },
+      {
+        "name": "Sigtuna",
+        "code": "0191"
+      },
+      {
+        "name": "Håbo",
+        "code": "0305"
+      },
+      {
+        "name": "Uppsala",
+        "code": "0380"
+      }
+    ]
+  },
+  "0331": {
+    "name": "Heby",
+    "code": "0331",
+    "neighbors": [
+      {
+        "name": "Tierp",
+        "code": "0360"
+      },
+      {
+        "name": "Uppsala",
+        "code": "0380"
+      },
+      {
+        "name": "Enköping",
+        "code": "0381"
+      },
+      {
+        "name": "Sala",
+        "code": "1981"
+      },
+      {
+        "name": "Avesta",
+        "code": "2084"
+      },
+      {
+        "name": "Gävle",
+        "code": "2180"
+      },
+      {
+        "name": "Sandviken",
+        "code": "2181"
+      }
+    ]
+  },
+  "0360": {
+    "name": "Tierp",
+    "code": "0360",
+    "neighbors": [
+      {
+        "name": "Älvkarleby",
+        "code": "0319"
+      },
+      {
+        "name": "Heby",
+        "code": "0331"
+      },
+      {
+        "name": "Uppsala",
+        "code": "0380"
+      },
+      {
+        "name": "Östhammar",
+        "code": "0382"
+      },
+      {
+        "name": "Gävle",
+        "code": "2180"
+      }
+    ]
+  },
+  "0380": {
+    "name": "Uppsala",
+    "code": "0380",
+    "neighbors": [
+      {
+        "name": "Norrtälje",
+        "code": "0188"
+      },
+      {
+        "name": "Sigtuna",
+        "code": "0191"
+      },
+      {
+        "name": "Håbo",
+        "code": "0305"
+      },
+      {
+        "name": "Knivsta",
+        "code": "0330"
+      },
+      {
+        "name": "Heby",
+        "code": "0331"
+      },
+      {
+        "name": "Tierp",
+        "code": "0360"
+      },
+      {
+        "name": "Enköping",
+        "code": "0381"
+      },
+      {
+        "name": "Östhammar",
+        "code": "0382"
+      }
+    ]
+  },
+  "0381": {
+    "name": "Enköping",
+    "code": "0381",
+    "neighbors": [
+      {
+        "name": "Håbo",
+        "code": "0305"
+      },
+      {
+        "name": "Heby",
+        "code": "0331"
+      },
+      {
+        "name": "Uppsala",
+        "code": "0380"
+      },
+      {
+        "name": "Västerås",
+        "code": "1980"
+      },
+      {
+        "name": "Sala",
+        "code": "1981"
+      }
+    ]
+  },
+  "0382": {
+    "name": "Östhammar",
+    "code": "0382",
+    "neighbors": [
+      {
+        "name": "Norrtälje",
+        "code": "0188"
+      },
+      {
+        "name": "Tierp",
+        "code": "0360"
+      },
+      {
+        "name": "Uppsala",
+        "code": "0380"
+      }
+    ]
+  },
+  "0428": {
+    "name": "Vingåker",
+    "code": "0428",
+    "neighbors": [
+      {
+        "name": "Katrineholm",
+        "code": "0483"
+      },
+      {
+        "name": "Finspång",
+        "code": "0562"
+      },
+      {
+        "name": "Örebro",
+        "code": "1880"
+      }
+    ]
+  },
+  "0461": {
+    "name": "Gnesta",
+    "code": "0461",
+    "neighbors": [
+      {
+        "name": "Nykvarn",
+        "code": "0140"
+      },
+      {
+        "name": "Södertälje",
+        "code": "0181"
+      },
+      {
+        "name": "Nyköping",
+        "code": "0480"
+      },
+      {
+        "name": "Flen",
+        "code": "0482"
+      },
+      {
+        "name": "Strängnäs",
+        "code": "0486"
+      },
+      {
+        "name": "Trosa",
+        "code": "0488"
+      }
+    ]
+  },
+  "0480": {
+    "name": "Nyköping",
+    "code": "0480",
+    "neighbors": [
+      {
+        "name": "Gnesta",
+        "code": "0461"
+      },
+      {
+        "name": "Oxelösund",
+        "code": "0481"
+      },
+      {
+        "name": "Flen",
+        "code": "0482"
+      },
+      {
+        "name": "Katrineholm",
+        "code": "0483"
+      },
+      {
+        "name": "Trosa",
+        "code": "0488"
+      },
+      {
+        "name": "Norrköping",
+        "code": "0581"
+      }
+    ]
+  },
+  "0481": {
+    "name": "Oxelösund",
+    "code": "0481",
+    "neighbors": [
+      {
+        "name": "Nyköping",
+        "code": "0480"
+      }
+    ]
+  },
+  "0482": {
+    "name": "Flen",
+    "code": "0482",
+    "neighbors": [
+      {
+        "name": "Gnesta",
+        "code": "0461"
+      },
+      {
+        "name": "Nyköping",
+        "code": "0480"
+      },
+      {
+        "name": "Katrineholm",
+        "code": "0483"
+      },
+      {
+        "name": "Eskilstuna",
+        "code": "0484"
+      },
+      {
+        "name": "Strängnäs",
+        "code": "0486"
+      }
+    ]
+  },
+  "0483": {
+    "name": "Katrineholm",
+    "code": "0483",
+    "neighbors": [
+      {
+        "name": "Vingåker",
+        "code": "0428"
+      },
+      {
+        "name": "Nyköping",
+        "code": "0480"
+      },
+      {
+        "name": "Flen",
+        "code": "0482"
+      },
+      {
+        "name": "Eskilstuna",
+        "code": "0484"
+      },
+      {
+        "name": "Finspång",
+        "code": "0562"
+      },
+      {
+        "name": "Norrköping",
+        "code": "0581"
+      }
+    ]
+  },
+  "0484": {
+    "name": "Eskilstuna",
+    "code": "0484",
+    "neighbors": [
+      {
+        "name": "Flen",
+        "code": "0482"
+      },
+      {
+        "name": "Katrineholm",
+        "code": "0483"
+      },
+      {
+        "name": "Strängnäs",
+        "code": "0486"
+      },
+      {
+        "name": "Kungsör",
+        "code": "1960"
+      },
+      {
+        "name": "Arboga",
+        "code": "1984"
+      }
+    ]
+  },
+  "0486": {
+    "name": "Strängnäs",
+    "code": "0486",
+    "neighbors": [
+      {
+        "name": "Nykvarn",
+        "code": "0140"
+      },
+      {
+        "name": "Gnesta",
+        "code": "0461"
+      },
+      {
+        "name": "Flen",
+        "code": "0482"
+      },
+      {
+        "name": "Eskilstuna",
+        "code": "0484"
+      }
+    ]
+  },
+  "0488": {
+    "name": "Trosa",
+    "code": "0488",
+    "neighbors": [
+      {
+        "name": "Södertälje",
+        "code": "0181"
+      },
+      {
+        "name": "Gnesta",
+        "code": "0461"
+      },
+      {
+        "name": "Nyköping",
+        "code": "0480"
+      }
+    ]
+  },
+  "0509": {
+    "name": "Ödeshög",
+    "code": "0509",
+    "neighbors": [
+      {
+        "name": "Boxholm",
+        "code": "0560"
+      },
+      {
+        "name": "Vadstena",
+        "code": "0584"
+      },
+      {
+        "name": "Mjölby",
+        "code": "0586"
+      },
+      {
+        "name": "Jönköping",
+        "code": "0680"
+      },
+      {
+        "name": "Tranås",
+        "code": "0687"
+      }
+    ]
+  },
+  "0512": {
+    "name": "Ydre",
+    "code": "0512",
+    "neighbors": [
+      {
+        "name": "Kinda",
+        "code": "0513"
+      },
+      {
+        "name": "Boxholm",
+        "code": "0560"
+      },
+      {
+        "name": "Aneby",
+        "code": "0604"
+      },
+      {
+        "name": "Eksjö",
+        "code": "0686"
+      },
+      {
+        "name": "Tranås",
+        "code": "0687"
+      },
+      {
+        "name": "Vimmerby",
+        "code": "0884"
+      }
+    ]
+  },
+  "0513": {
+    "name": "Kinda",
+    "code": "0513",
+    "neighbors": [
+      {
+        "name": "Ydre",
+        "code": "0512"
+      },
+      {
+        "name": "Boxholm",
+        "code": "0560"
+      },
+      {
+        "name": "Åtvidaberg",
+        "code": "0561"
+      },
+      {
+        "name": "Linköping",
+        "code": "0580"
+      },
+      {
+        "name": "Västervik",
+        "code": "0883"
+      },
+      {
+        "name": "Vimmerby",
+        "code": "0884"
+      }
+    ]
+  },
+  "0560": {
+    "name": "Boxholm",
+    "code": "0560",
+    "neighbors": [
+      {
+        "name": "Ödeshög",
+        "code": "0509"
+      },
+      {
+        "name": "Ydre",
+        "code": "0512"
+      },
+      {
+        "name": "Kinda",
+        "code": "0513"
+      },
+      {
+        "name": "Linköping",
+        "code": "0580"
+      },
+      {
+        "name": "Mjölby",
+        "code": "0586"
+      },
+      {
+        "name": "Tranås",
+        "code": "0687"
+      }
+    ]
+  },
+  "0561": {
+    "name": "Åtvidaberg",
+    "code": "0561",
+    "neighbors": [
+      {
+        "name": "Kinda",
+        "code": "0513"
+      },
+      {
+        "name": "Valdemarsvik",
+        "code": "0563"
+      },
+      {
+        "name": "Linköping",
+        "code": "0580"
+      },
+      {
+        "name": "Söderköping",
+        "code": "0582"
+      },
+      {
+        "name": "Västervik",
+        "code": "0883"
+      }
+    ]
+  },
+  "0562": {
+    "name": "Finspång",
+    "code": "0562",
+    "neighbors": [
+      {
+        "name": "Vingåker",
+        "code": "0428"
+      },
+      {
+        "name": "Katrineholm",
+        "code": "0483"
+      },
+      {
+        "name": "Linköping",
+        "code": "0580"
+      },
+      {
+        "name": "Norrköping",
+        "code": "0581"
+      },
+      {
+        "name": "Motala",
+        "code": "0583"
+      },
+      {
+        "name": "Hallsberg",
+        "code": "1861"
+      },
+      {
+        "name": "Örebro",
+        "code": "1880"
+      }
+    ]
+  },
+  "0563": {
+    "name": "Valdemarsvik",
+    "code": "0563",
+    "neighbors": [
+      {
+        "name": "Åtvidaberg",
+        "code": "0561"
+      },
+      {
+        "name": "Söderköping",
+        "code": "0582"
+      },
+      {
+        "name": "Västervik",
+        "code": "0883"
+      }
+    ]
+  },
+  "0580": {
+    "name": "Linköping",
+    "code": "0580",
+    "neighbors": [
+      {
+        "name": "Kinda",
+        "code": "0513"
+      },
+      {
+        "name": "Boxholm",
+        "code": "0560"
+      },
+      {
+        "name": "Åtvidaberg",
+        "code": "0561"
+      },
+      {
+        "name": "Finspång",
+        "code": "0562"
+      },
+      {
+        "name": "Norrköping",
+        "code": "0581"
+      },
+      {
+        "name": "Söderköping",
+        "code": "0582"
+      },
+      {
+        "name": "Motala",
+        "code": "0583"
+      },
+      {
+        "name": "Mjölby",
+        "code": "0586"
+      }
+    ]
+  },
+  "0581": {
+    "name": "Norrköping",
+    "code": "0581",
+    "neighbors": [
+      {
+        "name": "Nyköping",
+        "code": "0480"
+      },
+      {
+        "name": "Katrineholm",
+        "code": "0483"
+      },
+      {
+        "name": "Finspång",
+        "code": "0562"
+      },
+      {
+        "name": "Linköping",
+        "code": "0580"
+      },
+      {
+        "name": "Söderköping",
+        "code": "0582"
+      }
+    ]
+  },
+  "0582": {
+    "name": "Söderköping",
+    "code": "0582",
+    "neighbors": [
+      {
+        "name": "Åtvidaberg",
+        "code": "0561"
+      },
+      {
+        "name": "Valdemarsvik",
+        "code": "0563"
+      },
+      {
+        "name": "Linköping",
+        "code": "0580"
+      },
+      {
+        "name": "Norrköping",
+        "code": "0581"
+      }
+    ]
+  },
+  "0583": {
+    "name": "Motala",
+    "code": "0583",
+    "neighbors": [
+      {
+        "name": "Finspång",
+        "code": "0562"
+      },
+      {
+        "name": "Linköping",
+        "code": "0580"
+      },
+      {
+        "name": "Vadstena",
+        "code": "0584"
+      },
+      {
+        "name": "Mjölby",
+        "code": "0586"
+      },
+      {
+        "name": "Hallsberg",
+        "code": "1861"
+      },
+      {
+        "name": "Askersund",
+        "code": "1882"
+      }
+    ]
+  },
+  "0584": {
+    "name": "Vadstena",
+    "code": "0584",
+    "neighbors": [
+      {
+        "name": "Ödeshög",
+        "code": "0509"
+      },
+      {
+        "name": "Motala",
+        "code": "0583"
+      },
+      {
+        "name": "Mjölby",
+        "code": "0586"
+      }
+    ]
+  },
+  "0586": {
+    "name": "Mjölby",
+    "code": "0586",
+    "neighbors": [
+      {
+        "name": "Ödeshög",
+        "code": "0509"
+      },
+      {
+        "name": "Boxholm",
+        "code": "0560"
+      },
+      {
+        "name": "Linköping",
+        "code": "0580"
+      },
+      {
+        "name": "Motala",
+        "code": "0583"
+      },
+      {
+        "name": "Vadstena",
+        "code": "0584"
+      }
+    ]
+  },
+  "0604": {
+    "name": "Aneby",
+    "code": "0604",
+    "neighbors": [
+      {
+        "name": "Ydre",
+        "code": "0512"
+      },
+      {
+        "name": "Jönköping",
+        "code": "0680"
+      },
+      {
+        "name": "Nässjö",
+        "code": "0682"
+      },
+      {
+        "name": "Eksjö",
+        "code": "0686"
+      },
+      {
+        "name": "Tranås",
+        "code": "0687"
+      }
+    ]
+  },
+  "0617": {
+    "name": "Gnosjö",
+    "code": "0617",
+    "neighbors": [
+      {
+        "name": "Gislaved",
+        "code": "0662"
+      },
+      {
+        "name": "Vaggeryd",
+        "code": "0665"
+      },
+      {
+        "name": "Värnamo",
+        "code": "0683"
+      }
+    ]
+  },
+  "0642": {
+    "name": "Mullsjö",
+    "code": "0642",
+    "neighbors": [
+      {
+        "name": "Habo",
+        "code": "0643"
+      },
+      {
+        "name": "Jönköping",
+        "code": "0680"
+      },
+      {
+        "name": "Ulricehamn",
+        "code": "1491"
+      },
+      {
+        "name": "Tidaholm",
+        "code": "1498"
+      },
+      {
+        "name": "Falköping",
+        "code": "1499"
+      }
+    ]
+  },
+  "0643": {
+    "name": "Habo",
+    "code": "0643",
+    "neighbors": [
+      {
+        "name": "Mullsjö",
+        "code": "0642"
+      },
+      {
+        "name": "Jönköping",
+        "code": "0680"
+      },
+      {
+        "name": "Hjo",
+        "code": "1497"
+      },
+      {
+        "name": "Tidaholm",
+        "code": "1498"
+      }
+    ]
+  },
+  "0662": {
+    "name": "Gislaved",
+    "code": "0662",
+    "neighbors": [
+      {
+        "name": "Gnosjö",
+        "code": "0617"
+      },
+      {
+        "name": "Vaggeryd",
+        "code": "0665"
+      },
+      {
+        "name": "Jönköping",
+        "code": "0680"
+      },
+      {
+        "name": "Värnamo",
+        "code": "0683"
+      },
+      {
+        "name": "Ljungby",
+        "code": "0781"
+      },
+      {
+        "name": "Hylte",
+        "code": "1315"
+      },
+      {
+        "name": "Falkenberg",
+        "code": "1382"
+      },
+      {
+        "name": "Tranemo",
+        "code": "1452"
+      },
+      {
+        "name": "Svenljunga",
+        "code": "1465"
+      }
+    ]
+  },
+  "0665": {
+    "name": "Vaggeryd",
+    "code": "0665",
+    "neighbors": [
+      {
+        "name": "Gnosjö",
+        "code": "0617"
+      },
+      {
+        "name": "Gislaved",
+        "code": "0662"
+      },
+      {
+        "name": "Jönköping",
+        "code": "0680"
+      },
+      {
+        "name": "Nässjö",
+        "code": "0682"
+      },
+      {
+        "name": "Värnamo",
+        "code": "0683"
+      },
+      {
+        "name": "Sävsjö",
+        "code": "0684"
+      }
+    ]
+  },
+  "0680": {
+    "name": "Jönköping",
+    "code": "0680",
+    "neighbors": [
+      {
+        "name": "Ödeshög",
+        "code": "0509"
+      },
+      {
+        "name": "Aneby",
+        "code": "0604"
+      },
+      {
+        "name": "Mullsjö",
+        "code": "0642"
+      },
+      {
+        "name": "Habo",
+        "code": "0643"
+      },
+      {
+        "name": "Gislaved",
+        "code": "0662"
+      },
+      {
+        "name": "Vaggeryd",
+        "code": "0665"
+      },
+      {
+        "name": "Nässjö",
+        "code": "0682"
+      },
+      {
+        "name": "Tranås",
+        "code": "0687"
+      },
+      {
+        "name": "Tranemo",
+        "code": "1452"
+      },
+      {
+        "name": "Ulricehamn",
+        "code": "1491"
+      }
+    ]
+  },
+  "0682": {
+    "name": "Nässjö",
+    "code": "0682",
+    "neighbors": [
+      {
+        "name": "Aneby",
+        "code": "0604"
+      },
+      {
+        "name": "Vaggeryd",
+        "code": "0665"
+      },
+      {
+        "name": "Jönköping",
+        "code": "0680"
+      },
+      {
+        "name": "Sävsjö",
+        "code": "0684"
+      },
+      {
+        "name": "Vetlanda",
+        "code": "0685"
+      },
+      {
+        "name": "Eksjö",
+        "code": "0686"
+      }
+    ]
+  },
+  "0683": {
+    "name": "Värnamo",
+    "code": "0683",
+    "neighbors": [
+      {
+        "name": "Gnosjö",
+        "code": "0617"
+      },
+      {
+        "name": "Gislaved",
+        "code": "0662"
+      },
+      {
+        "name": "Vaggeryd",
+        "code": "0665"
+      },
+      {
+        "name": "Sävsjö",
+        "code": "0684"
+      },
+      {
+        "name": "Alvesta",
+        "code": "0764"
+      },
+      {
+        "name": "Ljungby",
+        "code": "0781"
+      }
+    ]
+  },
+  "0684": {
+    "name": "Sävsjö",
+    "code": "0684",
+    "neighbors": [
+      {
+        "name": "Vaggeryd",
+        "code": "0665"
+      },
+      {
+        "name": "Nässjö",
+        "code": "0682"
+      },
+      {
+        "name": "Värnamo",
+        "code": "0683"
+      },
+      {
+        "name": "Vetlanda",
+        "code": "0685"
+      },
+      {
+        "name": "Alvesta",
+        "code": "0764"
+      },
+      {
+        "name": "Växjö",
+        "code": "0780"
+      }
+    ]
+  },
+  "0685": {
+    "name": "Vetlanda",
+    "code": "0685",
+    "neighbors": [
+      {
+        "name": "Nässjö",
+        "code": "0682"
+      },
+      {
+        "name": "Sävsjö",
+        "code": "0684"
+      },
+      {
+        "name": "Eksjö",
+        "code": "0686"
+      },
+      {
+        "name": "Uppvidinge",
+        "code": "0760"
+      },
+      {
+        "name": "Växjö",
+        "code": "0780"
+      },
+      {
+        "name": "Högsby",
+        "code": "0821"
+      },
+      {
+        "name": "Hultsfred",
+        "code": "0860"
+      }
+    ]
+  },
+  "0686": {
+    "name": "Eksjö",
+    "code": "0686",
+    "neighbors": [
+      {
+        "name": "Ydre",
+        "code": "0512"
+      },
+      {
+        "name": "Aneby",
+        "code": "0604"
+      },
+      {
+        "name": "Nässjö",
+        "code": "0682"
+      },
+      {
+        "name": "Vetlanda",
+        "code": "0685"
+      },
+      {
+        "name": "Hultsfred",
+        "code": "0860"
+      },
+      {
+        "name": "Vimmerby",
+        "code": "0884"
+      }
+    ]
+  },
+  "0687": {
+    "name": "Tranås",
+    "code": "0687",
+    "neighbors": [
+      {
+        "name": "Ödeshög",
+        "code": "0509"
+      },
+      {
+        "name": "Ydre",
+        "code": "0512"
+      },
+      {
+        "name": "Boxholm",
+        "code": "0560"
+      },
+      {
+        "name": "Aneby",
+        "code": "0604"
+      },
+      {
+        "name": "Jönköping",
+        "code": "0680"
+      }
+    ]
+  },
+  "0760": {
+    "name": "Uppvidinge",
+    "code": "0760",
+    "neighbors": [
+      {
+        "name": "Vetlanda",
+        "code": "0685"
+      },
+      {
+        "name": "Lessebo",
+        "code": "0761"
+      },
+      {
+        "name": "Växjö",
+        "code": "0780"
+      },
+      {
+        "name": "Högsby",
+        "code": "0821"
+      },
+      {
+        "name": "Hultsfred",
+        "code": "0860"
+      },
+      {
+        "name": "Nybro",
+        "code": "0881"
+      }
+    ]
+  },
+  "0761": {
+    "name": "Lessebo",
+    "code": "0761",
+    "neighbors": [
+      {
+        "name": "Uppvidinge",
+        "code": "0760"
+      },
+      {
+        "name": "Tingsryd",
+        "code": "0763"
+      },
+      {
+        "name": "Växjö",
+        "code": "0780"
+      },
+      {
+        "name": "Emmaboda",
+        "code": "0862"
+      },
+      {
+        "name": "Nybro",
+        "code": "0881"
+      }
+    ]
+  },
+  "0763": {
+    "name": "Tingsryd",
+    "code": "0763",
+    "neighbors": [
+      {
+        "name": "Lessebo",
+        "code": "0761"
+      },
+      {
+        "name": "Alvesta",
+        "code": "0764"
+      },
+      {
+        "name": "Älmhult",
+        "code": "0765"
+      },
+      {
+        "name": "Växjö",
+        "code": "0780"
+      },
+      {
+        "name": "Emmaboda",
+        "code": "0862"
+      },
+      {
+        "name": "Olofström",
+        "code": "1060"
+      },
+      {
+        "name": "Ronneby",
+        "code": "1081"
+      },
+      {
+        "name": "Karlshamn",
+        "code": "1082"
+      }
+    ]
+  },
+  "0764": {
+    "name": "Alvesta",
+    "code": "0764",
+    "neighbors": [
+      {
+        "name": "Värnamo",
+        "code": "0683"
+      },
+      {
+        "name": "Sävsjö",
+        "code": "0684"
+      },
+      {
+        "name": "Tingsryd",
+        "code": "0763"
+      },
+      {
+        "name": "Älmhult",
+        "code": "0765"
+      },
+      {
+        "name": "Växjö",
+        "code": "0780"
+      },
+      {
+        "name": "Ljungby",
+        "code": "0781"
+      }
+    ]
+  },
+  "0765": {
+    "name": "Älmhult",
+    "code": "0765",
+    "neighbors": [
+      {
+        "name": "Tingsryd",
+        "code": "0763"
+      },
+      {
+        "name": "Alvesta",
+        "code": "0764"
+      },
+      {
+        "name": "Markaryd",
+        "code": "0767"
+      },
+      {
+        "name": "Ljungby",
+        "code": "0781"
+      },
+      {
+        "name": "Olofström",
+        "code": "1060"
+      },
+      {
+        "name": "Osby",
+        "code": "1273"
+      },
+      {
+        "name": "Hässleholm",
+        "code": "1293"
+      }
+    ]
+  },
+  "0767": {
+    "name": "Markaryd",
+    "code": "0767",
+    "neighbors": [
+      {
+        "name": "Älmhult",
+        "code": "0765"
+      },
+      {
+        "name": "Ljungby",
+        "code": "0781"
+      },
+      {
+        "name": "Örkelljunga",
+        "code": "1257"
+      },
+      {
+        "name": "Osby",
+        "code": "1273"
+      },
+      {
+        "name": "Hässleholm",
+        "code": "1293"
+      },
+      {
+        "name": "Laholm",
+        "code": "1381"
+      }
+    ]
+  },
+  "0780": {
+    "name": "Växjö",
+    "code": "0780",
+    "neighbors": [
+      {
+        "name": "Sävsjö",
+        "code": "0684"
+      },
+      {
+        "name": "Vetlanda",
+        "code": "0685"
+      },
+      {
+        "name": "Uppvidinge",
+        "code": "0760"
+      },
+      {
+        "name": "Lessebo",
+        "code": "0761"
+      },
+      {
+        "name": "Tingsryd",
+        "code": "0763"
+      },
+      {
+        "name": "Alvesta",
+        "code": "0764"
+      }
+    ]
+  },
+  "0781": {
+    "name": "Ljungby",
+    "code": "0781",
+    "neighbors": [
+      {
+        "name": "Gislaved",
+        "code": "0662"
+      },
+      {
+        "name": "Värnamo",
+        "code": "0683"
+      },
+      {
+        "name": "Alvesta",
+        "code": "0764"
+      },
+      {
+        "name": "Älmhult",
+        "code": "0765"
+      },
+      {
+        "name": "Markaryd",
+        "code": "0767"
+      },
+      {
+        "name": "Hylte",
+        "code": "1315"
+      },
+      {
+        "name": "Halmstad",
+        "code": "1380"
+      },
+      {
+        "name": "Laholm",
+        "code": "1381"
+      }
+    ]
+  },
+  "0821": {
+    "name": "Högsby",
+    "code": "0821",
+    "neighbors": [
+      {
+        "name": "Vetlanda",
+        "code": "0685"
+      },
+      {
+        "name": "Uppvidinge",
+        "code": "0760"
+      },
+      {
+        "name": "Hultsfred",
+        "code": "0860"
+      },
+      {
+        "name": "Mönsterås",
+        "code": "0861"
+      },
+      {
+        "name": "Nybro",
+        "code": "0881"
+      },
+      {
+        "name": "Oskarshamn",
+        "code": "0882"
+      }
+    ]
+  },
+  "0834": {
+    "name": "Torsås",
+    "code": "0834",
+    "neighbors": [
+      {
+        "name": "Emmaboda",
+        "code": "0862"
+      },
+      {
+        "name": "Kalmar",
+        "code": "0880"
+      },
+      {
+        "name": "Karlskrona",
+        "code": "1080"
+      }
+    ]
+  },
+  "0840": {
+    "name": "Mörbylånga",
+    "code": "0840",
+    "neighbors": [
+      {
+        "name": "Borgholm",
+        "code": "0885"
+      }
+    ]
+  },
+  "0860": {
+    "name": "Hultsfred",
+    "code": "0860",
+    "neighbors": [
+      {
+        "name": "Vetlanda",
+        "code": "0685"
+      },
+      {
+        "name": "Eksjö",
+        "code": "0686"
+      },
+      {
+        "name": "Uppvidinge",
+        "code": "0760"
+      },
+      {
+        "name": "Högsby",
+        "code": "0821"
+      },
+      {
+        "name": "Oskarshamn",
+        "code": "0882"
+      },
+      {
+        "name": "Vimmerby",
+        "code": "0884"
+      }
+    ]
+  },
+  "0861": {
+    "name": "Mönsterås",
+    "code": "0861",
+    "neighbors": [
+      {
+        "name": "Högsby",
+        "code": "0821"
+      },
+      {
+        "name": "Kalmar",
+        "code": "0880"
+      },
+      {
+        "name": "Nybro",
+        "code": "0881"
+      },
+      {
+        "name": "Oskarshamn",
+        "code": "0882"
+      }
+    ]
+  },
+  "0862": {
+    "name": "Emmaboda",
+    "code": "0862",
+    "neighbors": [
+      {
+        "name": "Lessebo",
+        "code": "0761"
+      },
+      {
+        "name": "Tingsryd",
+        "code": "0763"
+      },
+      {
+        "name": "Torsås",
+        "code": "0834"
+      },
+      {
+        "name": "Kalmar",
+        "code": "0880"
+      },
+      {
+        "name": "Nybro",
+        "code": "0881"
+      },
+      {
+        "name": "Karlskrona",
+        "code": "1080"
+      },
+      {
+        "name": "Ronneby",
+        "code": "1081"
+      }
+    ]
+  },
+  "0880": {
+    "name": "Kalmar",
+    "code": "0880",
+    "neighbors": [
+      {
+        "name": "Torsås",
+        "code": "0834"
+      },
+      {
+        "name": "Mönsterås",
+        "code": "0861"
+      },
+      {
+        "name": "Emmaboda",
+        "code": "0862"
+      },
+      {
+        "name": "Nybro",
+        "code": "0881"
+      }
+    ]
+  },
+  "0881": {
+    "name": "Nybro",
+    "code": "0881",
+    "neighbors": [
+      {
+        "name": "Uppvidinge",
+        "code": "0760"
+      },
+      {
+        "name": "Lessebo",
+        "code": "0761"
+      },
+      {
+        "name": "Högsby",
+        "code": "0821"
+      },
+      {
+        "name": "Mönsterås",
+        "code": "0861"
+      },
+      {
+        "name": "Emmaboda",
+        "code": "0862"
+      },
+      {
+        "name": "Kalmar",
+        "code": "0880"
+      }
+    ]
+  },
+  "0882": {
+    "name": "Oskarshamn",
+    "code": "0882",
+    "neighbors": [
+      {
+        "name": "Högsby",
+        "code": "0821"
+      },
+      {
+        "name": "Hultsfred",
+        "code": "0860"
+      },
+      {
+        "name": "Mönsterås",
+        "code": "0861"
+      },
+      {
+        "name": "Västervik",
+        "code": "0883"
+      },
+      {
+        "name": "Vimmerby",
+        "code": "0884"
+      }
+    ]
+  },
+  "0883": {
+    "name": "Västervik",
+    "code": "0883",
+    "neighbors": [
+      {
+        "name": "Kinda",
+        "code": "0513"
+      },
+      {
+        "name": "Åtvidaberg",
+        "code": "0561"
+      },
+      {
+        "name": "Valdemarsvik",
+        "code": "0563"
+      },
+      {
+        "name": "Oskarshamn",
+        "code": "0882"
+      },
+      {
+        "name": "Vimmerby",
+        "code": "0884"
+      }
+    ]
+  },
+  "0884": {
+    "name": "Vimmerby",
+    "code": "0884",
+    "neighbors": [
+      {
+        "name": "Ydre",
+        "code": "0512"
+      },
+      {
+        "name": "Kinda",
+        "code": "0513"
+      },
+      {
+        "name": "Eksjö",
+        "code": "0686"
+      },
+      {
+        "name": "Hultsfred",
+        "code": "0860"
+      },
+      {
+        "name": "Oskarshamn",
+        "code": "0882"
+      },
+      {
+        "name": "Västervik",
+        "code": "0883"
+      }
+    ]
+  },
+  "0885": {
+    "name": "Borgholm",
+    "code": "0885",
+    "neighbors": [
+      {
+        "name": "Mörbylånga",
+        "code": "0840"
+      }
+    ]
+  },
+  "0980": {
+    "name": "Gotland",
+    "code": "0980",
+    "neighbors": []
+  }
+}
