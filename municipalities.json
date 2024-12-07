@@ -1,4 +1,4 @@
-const municipalities = {
+{
   "0114": "Upplands Väsby",
   "0115": "Vallentuna",
   "0117": "Österåker",
@@ -288,7 +288,5 @@ const municipalities = {
   "2581": "Piteå",
   "2582": "Boden",
   "2583": "Haparanda",
-  "2584": "Kiruna",
-};
-
-export default municipalities;
+  "2584": "Kiruna"
+}

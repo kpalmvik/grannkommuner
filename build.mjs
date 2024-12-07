@@ -1,7 +1,7 @@
 import { parse } from "csv-parse/sync";
 import fs from "fs";
 
-import municipalities from "./municipalities.js";
+import municipalities from "./municipalities.json" with { type: "json"}
 
 const parseInputCsv = function parseInputCsv() {
   const csvContents = fs.readFileSync(
