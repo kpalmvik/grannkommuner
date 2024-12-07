@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "node build.mjs",
+    "prettier": "prettier -c .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/kpalmvik/grannkommuner#readme",
   "devDependencies": {
-    "csv-parse": "^5.6.0"
+    "csv-parse": "^5.6.0",
+    "prettier": "^3.4.2"
   }
 }
