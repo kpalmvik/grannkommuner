@@ -36,12 +36,31 @@ const nameCodesString = sorted
   })
   .join("\r\n");
 
+const nameAndCodes = {};
+
+Object.keys(data).forEach((municipalityCode) => {
+  const municipalityName = nameFromCode(municipalityCode);
+
+  nameAndCodes[municipalityCode] = {
+    name: municipalityName,
+    code: municipalityCode,
+    neighbors: data[municipalityCode].map((neighborCode) => ({
+      name: nameFromCode(neighborCode),
+      code: neighborCode,
+    })),
+  };
+});
+
 writeOutputFile("neighboring-municipalities-code.json", JSON.stringify(data));
 writeOutputFile(
   "neighboring-municipalities-name.json",
   JSON.stringify(onlyNames(data)),
 );
 writeOutputFile("neighboring-municipalities-name-code.txt", nameCodesString);
+writeOutputFile(
+  "neighboring-municipalities-name-code.json",
+  JSON.stringify(nameAndCodes, null, 2),
+);
 
 console.log("-------");
 console.log("Copy and paste from console to README.md");
